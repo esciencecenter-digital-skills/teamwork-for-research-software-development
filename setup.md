@@ -1,7 +1,6 @@
 ---
 title: Setup
 ---
-FIXME
-
+This lesson does not require any setup
 
 {% include links.md %}
