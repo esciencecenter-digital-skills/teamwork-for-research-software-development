@@ -1,7 +1,7 @@
 ---
 title: "Introduction to agile"
-teaching: 5
-exercises: 15
+teaching: 10
+exercises: 20
 questions:
 - "What is 'agile'?"
 - "Why should I work in an agile way?"
