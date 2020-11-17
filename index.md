@@ -15,7 +15,7 @@ This lesson has the following episodes:
 
 > ## Prerequisites
 >
-> An up-to-date browser
+> No specific skills or knowledge are required to follow this lesson
 {: .prereq}
 
 {% include links.md %}
