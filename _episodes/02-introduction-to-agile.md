@@ -75,9 +75,10 @@ Watch [this video introducing the agile manifesto](http://growingagile.thinkific
 > > - By supporting motivated individuals and accommodating to what they need, they will keep motivated.
 > >
 > > ### Downsides:
-> > - Lack of clear structure can make it easy to get side-tracked
+> > - Lack of clear structure can make it easy to get side-tracked.
 > > - Because of incremental nature it is hard to say when something is done.
-> > - You need a high level of collaboration that is hard to maintain
+> > - You need a high level of collaboration that is hard to maintain.
+> > - You need support from the management to do it effectively.
 > {: .solution}
 {: .challenge}
 
