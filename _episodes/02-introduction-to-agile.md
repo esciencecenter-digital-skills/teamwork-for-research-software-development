@@ -22,6 +22,7 @@ because each phase flows into the next phase like a waterfall:
 
 The key is that there is a clear project timeline and agreed-upon deliverables
 at the beginning of the project.
+Learn more about the waterfall model [here](https://www.tutorialspoint.com/sdlc/sdlc_waterfall_model.htm)
 
 > ## Discussion
 > What do you think are potential drawbacks of the waterfall model?
