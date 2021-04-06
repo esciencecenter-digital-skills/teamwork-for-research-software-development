@@ -30,6 +30,7 @@ Learn more about the waterfall model [here](https://www.tutorialspoint.com/sdlc/
 > > ## Solution
 > > - Less customer involvement (only in the beginning)
 > > - Users usually only really know the requirements once they have working software, but then it is too late.
+> > - Requirements change during development, these changes are not incorporated so the software does not do what the user needs.
 > > - No way to know upfront what difficulties you might face
 > > - Testing happens only at the very end
 > > - Deadlines are often not met, in practice waterfall projects are delayed a lot
