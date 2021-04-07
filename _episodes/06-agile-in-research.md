@@ -1,7 +1,7 @@
 ---
 title: "Challenges for Agile way of working in research"
 teaching: 15
-exercises: 15
+exercises: 20
 questions:
 - "What are challenges for agile way of working in research and how do I solve them?"
 objectives:
@@ -18,8 +18,40 @@ agile principles to research projects.
 
 > ## Discussion
 > What are challenges for an agile way of working specific to research?
+>
+> > ## Solution
+> > ### Uncertainty Challenge
+> > When doing science, the time required to implement a solution is ambiguous and depends on unknowns such as
+> > outcomes of investigations and experiments or data availability.
+> > ### Cultural challenge
+> > A scientist is traditionally used to working individually in an isolated silo.
+> > Also management might be hesitant to let teams self-manage.
+> > Given this individualistic culture it is often intimidating to start with Agile practices.
+> > ### Waterfall project setup challenge
+> > Scientific projects are often setup in long-term project timelines following a
+> > Waterfall method.
+> > ### Large-scale projects challenge
+> > Emergent design in iterative sprints does not always lead to the best large-scale functionality.
+> > ### Team dedication challenge
+> > Agile is often explained with the idea of a team fully dedicated to a single project.
+> > In academia team members are often involved in numerous projects in and outside of the team.
+> > ### Product owner challenge
+> > For a team running multiple research projects, who acts as product owner?
+> > ### Distributed expertise challenge
+> > In Agile methodologies it is often assumed that a task can be picked up by any team member.
+> > However, in science different team members often have specialized in certain domains or technologies,
+> > and it makes more sense to assign specific tasks to members with a specific expertise.
+> > ### What is value challenge
+> > The goal of Agile way of working is to maximize value for the customer,
+> > but what is value in research? And who is the customer?
+> {: .solution}
 {: .discussion}
 -----------------------------------------------
+
+> ## Discussion
+> Can you think of solutions to these challenges?
+{: .discussion}
+
 ### Uncertainty Challenge
 When doing science, the time required to implement a solution is ambiguous and depends on unknowns such as
 outcomes of investigations and experiments or data availability.
