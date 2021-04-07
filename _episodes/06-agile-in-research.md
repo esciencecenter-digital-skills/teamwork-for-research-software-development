@@ -87,6 +87,16 @@ and it makes more sense to assign specific tasks to members with a specific expe
 - Be explicit and open in each team members expertise and how that fits best to the different projects.
 
 ----------------------------------------------------
+### What is value challenge
+The goal of Agile way of working is to maximize value for the customer,
+but what is value in research? And who is the customer?
+#### Solutions:
+- Discuss this in your team! Our proposition:
+    - Our customers: The Scientific Community at Large
+    - Value for our Customers: Useful, well programmed software. Output (papers, blogs etc.).
+    Increased FAIR-ness and quality of research. Disseminated expertise on eScience Technology.
+
+----------------------------------------------------
 ## Resources
 - [Scrum for Data Science](http://www.datascience-pm.com/scrum/)
 - [Reinventing Research: Agile in the Academic Laboratory](https://www.agilealliance.org/resources/experience-reports/reinventing-research-agile-in-the-academic-laboratory/)
