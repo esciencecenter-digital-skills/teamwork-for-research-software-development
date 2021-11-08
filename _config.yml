@@ -12,7 +12,7 @@
 carpentry: "ea"
 
 # Overall title for pages.
-title: "An Agile way of Working in eScience"
+title: "Teamwork for Research Software"
 
 # Life cycle stage of the lesson
 # possible values: "pre-alpha", "alpha", "beta", "stable"
@@ -28,10 +28,10 @@ kind: "lesson"
 # Magic to make URLs resolve both locally and on GitHub.
 # See https://help.github.com/articles/repository-metadata-on-github-pages/.
 # Please don't change it: <USERNAME>/<PROJECT> is correct.
-repository: escience-academy/lesson-agile-escience
+repository: escience-academy/teamwork-for-research-software
 
 # Email address, no mailto:
-email: "Agile Awareness Group - Agile-SIG <8afee2ac.esciencecenter.nl@emea.teams.ms>"
+email: "Teamwork course - Teamwork SIG <85f7ff15.esciencecenter.nl@emea.teams.ms>"
 
 # Sites.
 amy_site: "https://amy.carpentries.org/workshops"
