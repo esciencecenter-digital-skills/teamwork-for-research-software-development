@@ -39,6 +39,19 @@ and `who` aspects of a work-item and keep everyone on the same page. A Kanban
 board uses cards, columns, and continuous improvement to help teams commit to
 the right amount of work, and get it done!
 
+<!-- TODO add a figure  -->
+
+### Cards
+
+Team members devide the work into some work-items and write onto cards
+(stickies, or tickets), usually one per card. For Agile teams, each card could
+represent one user story. Once on the board, these cards help everyone
+understand what the team is working on.
+
+### Columns
+
+### Continuous improvement
+
 
 ## Kanban vs Scrum
 
@@ -55,3 +68,6 @@ working in a team.
 
 {% include links.md %}
 
+## Reference
+
+https://www.atlassian.com/agile/kanban
