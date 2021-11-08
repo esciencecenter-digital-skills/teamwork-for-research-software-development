@@ -28,7 +28,7 @@ kind: "lesson"
 # Magic to make URLs resolve both locally and on GitHub.
 # See https://help.github.com/articles/repository-metadata-on-github-pages/.
 # Please don't change it: <USERNAME>/<PROJECT> is correct.
-repository: escience-academy/teamwork-for-research-software
+repository: escience-academy/teamwork-for-research-software-development
 
 # Email address, no mailto:
 email: "Teamwork course - Teamwork SIG <85f7ff15.esciencecenter.nl@emea.teams.ms>"
