@@ -17,7 +17,7 @@ keypoints:
 
 ## What is Kanban?
 
-Kanban is a process managemnet method. It balances demands with available
+Kanban is a process management method. It balances demands with available
 capacity and improves the handling of bottlenecks. You can simply apply Kanban to
 your current process of developing software.
 
