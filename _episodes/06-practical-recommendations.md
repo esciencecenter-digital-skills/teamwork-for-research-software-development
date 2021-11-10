@@ -56,6 +56,8 @@ For this, giving good feedback is vital.
 * Don't feel attacked. The person giving you feedback is trying to help you.
 * Ask for clarification if the feedback is not specific enough.
 
+If you want to learn more about giving feedback in a way that is pleasant for others, we recommend that you take a course dedicated to this topic with your whole team. For a first impression, here is a short [guide about giving constructive feedback](https://www.workpatterns.com/guides/constructive-feedback). 
+
 ### Build trust
 Trust between team members is important for:
 * Trusting each other to successfully finish tasks
