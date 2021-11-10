@@ -5,8 +5,7 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 ---
 
 This lesson teaches how to successfully work together in a team.
-It is geared towards people that create research software,
-but anyone wanting to get better at working in teams can learn something from this lesson.
+It is geared primarily towards people that create research software in an academic setting, however the lesson is most likely also useful for anyone trying to work on a team in scientific projects. Finally we hope that anyone wanting to get better at working in teams can learn something from this lesson.
 
 The widespread standard in academia has been, and still is,
 to work individually for the majority of one's time.
