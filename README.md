@@ -1,4 +1,4 @@
-# Teamwork for Research Software
+# Teamwork for Research Software Development
 This lesson is intended for people that create research software
 who would like to learn more about working in a team.
 
