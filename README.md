@@ -1,12 +1,17 @@
 # Teamwork for Research Software Development
+
 This lesson is intended for people that create research software
 who would like to learn more about working in a team.
+
+[![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://swc-slack-invite.herokuapp.com/)
+
+This repository generates the corresponding lesson website from [The Carpentries](https://carpentries.org/) repertoire of lessons.
 
 ### How to write hours:
 In exact:
 * 00020213 (Knowledge Development)
 * 00072 (KD SIG's)
-* Note: Agile course development
+* Note: Teamwork course development
 
 Also fill in your hours [in this spreadsheet](https://nlesc-my.sharepoint.com/:x:/g/personal/s_vanderburg_esciencecenter_nl/EbgKWLA71sdEvecqKsfdb3MBuIlQe8Mei8WEKYMxIAZsPA?e=0pAYEI)
 
