@@ -86,7 +86,7 @@ people that do not speak your first language.
 This may sound trivial, but don't underestimate the importance of team bonding.
 It really helps to step out of the formal office setting,
 and improve the relationships in the team over a drink, doing a sports activity, or solving
-an escape room together.
+an escape room together. Engaging in social activities is also one of the best ways to build trust between members.
 
 # Wrapping up
 > ## Exercise: Wrapping up.
