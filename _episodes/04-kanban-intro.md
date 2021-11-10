@@ -152,7 +152,7 @@ Kanban is great for processes focused on continuous delivery with changing
 priorities. On the other hand, Scrum divides work into a series of time-boxed
 iterations called sprints (see [episode 3](./03-scrum-into.md)).
 
-But maybe a combination of Scrum and Kanban (it is called "Scrumban") is what
+But maybe a combination of Scrum and Kanban (known as "Scrumban") is what
 your team would benefit the most from.
 
 Scrumban manifests itself in different ways depending on your team
