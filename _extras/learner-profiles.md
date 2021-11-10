@@ -9,27 +9,36 @@ these will help you understand the target audience so that we can have a collabo
 
 ### Agnes Argentina
 
-Agnes holds a degree in organic chemistry and is very busy wrapping up her PhD-thesis.
+Agnes holds a degree in organic chemistry and is busy wrapping up her PhD-thesis.
 During her PhD she worked on several software engineering projects.
-She noticed that she liked doing research,
-but she experienced more fun during the software engineering projects.
-Therefore, she has now started working at the Netherlands eScience center as a research software engineer.
+She noticed that she liked doing research but she had more fun during the software engineering projects.
+As a result, she has now started working in a new job as a research software engineer.
 
-She started working in one of the engineering teams and is familiarizing herself with the way the team works.
-She loyally attends all team meetings but finds it hard to overview the whole process
-and she does not see the benefits of all this overhead. She is used to working individually,
-both when doing wet work in the lab, and when working on her software projects.
+She started working on one of the engineering teams and is familiarizing herself with the way the team works.
+Agnes loyally attends all team meetings but finds it hard to get an overview of the whole process. Most importantly, she struggles to see the benefits of all this overhead.
+She is used to working individually, both when doing wet work in the lab, and when working on her software projects.
 
-Her teammates say that she should read a bit about Scrum and Kanban,
-because apparently, they apply a mixture of those methodologies in their team process.
+Her teammates say that she should read a bit about Scrum and Kanban because they seem to apply a mixture of those methodologies in their team process.
 She has tried reading a bit about those methodologies but is overwhelmed by the huge amount of material on them.
 Furthermore, all guides, tutorials, and videos she found seemed to be targeted towards tech industry and not science.
+
+### Joost van Joolen
+
+Joost is a scientific programmer working in a tight-knit behavioural sciences department.
+Recently, a number of new scientific programmers have been hired to help out on the various projects Joost works on.
+At present, each of his colleagues work mostly alone on their own assigned projects but will often discuss the work and occasionally help each other.
+
+Joost thinks it would be more productive and fun if they would all work together as some sort of team.
+Joost is aware of the possibility of working in teams, but it feels like something that only happens in industry and not research environments.
+Nevertheless, Joost is interested in starting his own team but he doesn't even know where to start.
+He wants to get an idea of what he should and shouldn't do when setting up a self-organising team.
+He would also like to get a feel for the tools and methodologies that exist for facilitating teamwork and, most importantly, the considerations and drawbacks of applying these in a research environment.
 
 ### Harold Harp
 
 Harold has been working as a policy officer at the Netherlands eScience center for 4 years now.
 Before that, he worked at the University of Amsterdam as a study coordinator for the Bachelor of Law.
-He himself did that same bachelor studies.
+He himself studied for the same bachelor.
 
 He enjoys doing his work, especially because he must communicate with
 a lot of people inside and outside of the organization.
@@ -37,18 +46,17 @@ Harold is a real communicator and everybody in the organization likes to chat wi
 Whenever he talks to his colleagues, he always tries to understand what they are working on and the way they work.
 He also asks them about their vision on the organizational structure.
 
-Since this year, the engineers in the organization started working more and more in teams using agile methodologies.
+Since this year, the engineers in the organization started working more and more in teams.
 He wants to understand more about this way of working as it would allow him to better
-understand the way his organization is functioning.
-Of course, he can learn about this by talking to colleagues about it (which is his preferred way of learning),
-but he realizes that it would help a lot if he could have an overview of the different agile methodologies and their
-characteristics.
+understand the way his organization is functioning. He would also like to give advice to the hiring committee regarding what they should be looking for in new recruits who will have a team focus.
+
+His preferred way of learning about this is through talking with colleagues, but he realizes that it would help a lot if he could have an overview of the important aspects of team creation and organisation.
 
 ### Karin Karrespoor
 
 NB: Karin has a need for more in depth knowledge than Agnes and Harold.
 We keep her in mind as a potential learner profile for a more advanced guide/course,
-but focus on Agnes and Harold for now.
+but focus on Agnes, Joost and Harold for now.
 
 Karin holds a PhD in material science and has been working at the Netherlands eScience Center
 as a research software engineer for over 5 years.
