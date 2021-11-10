@@ -97,8 +97,7 @@ See this  figure from the [2020 state of agile survey](https://stateofagile.com/
 It depicts the popularity of used agile methodologies.
 <img src="../fig/agile-methodologies.svg" alt="agile methodologies" width="800"/>
 
-I hope you understand why so far we have only discussed Scrum and Kanban,
-since they are the most popular agile methodologies.
+So far we have only discussed Scrum and Kanban, since they are the most popular agile methodologies.
 
 Nevertheless, there are many other methodologies that go beyond the scope of this course but are worth exploring, to name a few:
 * Extreme Programming
