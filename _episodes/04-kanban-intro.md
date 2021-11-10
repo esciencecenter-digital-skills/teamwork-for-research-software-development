@@ -40,7 +40,10 @@ and `who` aspects of a work-item and keep everyone on the same page. A Kanban
 board uses cards, columns, and continuous improvement to help teams commit to
 the right amount of work, and get it done!
 
-<!-- TODO add a figure  -->
+Here is an example of a Kanban board created using
+[GitHub project boards](https://docs.github.com/en/issues/organizing-your-work-with-project-boards):
+
+![Kanban board](../fig/kanban_board.png)
 
 ### Cards
 
@@ -56,7 +59,7 @@ statements that define how a user story can be completed.
 >
 > Generally speaking the "Product Owner" defines the product backlog, and
 > acceptance criteria (AC). However, it is a good practice if team members
-> contributed to wrting AC.
+> contribute to writing AC.
 >
 {: .callout}
 
