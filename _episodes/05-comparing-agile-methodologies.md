@@ -101,9 +101,9 @@ I hope you understand why so far we have only discussed Scrum and Kanban,
 since they are the most popular agile methodologies.
 
 Nevertheless, there are many other methodologies that go beyond the scope of this course but are worth exploring, to name a few:
-* Extreme Programming
-* Lean Startup
-* Spotify Model
-* Dynamic Systems Development Method (DSDM)
+* Extreme Programming (see [extremeprogramming.org](http://www.extremeprogramming.org/))
+* Lean Startup (see [this summary video](https://www.youtube.com/watch?v=RSaIOCHbuYw))
+* Spotify Model (see [this summary video](https://www.youtube.com/watch?v=4GK1NDTWbkY))
+* Dynamic Systems Development Method (DSDM, see [this summary video](https://www.youtube.com/watch?v=RSaIOCHbuYw))
 
 {% include links.md %}
