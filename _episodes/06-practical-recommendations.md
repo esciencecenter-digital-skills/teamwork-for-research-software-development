@@ -78,6 +78,9 @@ If done constructively, this is usually appreciated by everyone.
 * Acknowledge that you have an unconscious bias.
 * Try to imagine yourself being in the place of your team members.
 * Having trust in the team helps (see above).
+* Set up policies or explicit common practices for the whole team if unconscious exclusion persists. 
+E.g. put up a reminder that the whole team should speak in English when you are in the vicinity of 
+people that do not speak your first language. 
 
 ### Team bonding
 This may sound trivial, but don't underestimate the importance of team bonding.
