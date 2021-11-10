@@ -65,15 +65,26 @@ statements that define how a user story can be completed.
 ### Columns
 
 Columns together show the process or workflow. Each column represents a specific
-activity, for example “To Do", “In Progress”, Done". Cards flow through the
+activity, for example “To Do", “In Progress”, "Done". Cards flow through the
 workflow until completion, i.e. from the left to right side of the board.
 
-<!-- TODO add more examples -->
 > ## More examples of Kanban Columns
 >
->
+> - “To Do", “Doing”, "Done".
+> - “To Do", “In Progress”, "Review", "Done".
+> - “To Do", “In Progress”, "Demo", "Done".
+> - “Committed", "Analysed", “In Progress”, "Done".
+> - "Ready", "Estimate", “Development”, "Test", "Done".
 {: .callout}
 
+> ## What if your team works on more than one project/product?
+>
+> If your team works on several projects/products, you can add one row for each
+> of them. As an alternative, your team may decide to have time-boxed workflow
+> and work on one project at a time, see the section "Combining Scrum and Kanban
+> (Scrumban)" in this lesson.
+>
+{: .callout}
 
 ### Continuous improvement
 
