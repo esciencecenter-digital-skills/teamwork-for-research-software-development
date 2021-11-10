@@ -51,7 +51,7 @@ Team members divide the work into some work-items and write onto cards
 represent one user story. Once on the board, these cards help everyone
 understand what the team is working on.
 
-Also, each card should have "acceptance criteria" (AC). AC is a set of
+Each card should also have "acceptance criteria" (AC). AC is a set of
 statements that define how a user story can be completed.
 
 > ## Who writes acceptance criteria
