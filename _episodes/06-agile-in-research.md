@@ -3,47 +3,53 @@ title: "Challenges for Agile way of working in research"
 teaching: 15
 exercises: 20
 questions:
-- "What are challenges for agile way of working in research and how do I solve them?"
+- "What are challenges for an agile way of working in research and how do I solve them?"
 objectives:
 - "Know how to do waterfall projects in an Agile way"
 - "Know how to deal with different expertise in a team"
-- "Remember that you should fit methodology to your way of working"
+- "Remember to fit the methodology to your way of working"
 - "Know how to deal with uncertainty and dependencies in projects"
 keypoints:
-- "Agile methodologies can be adapted so they work well in a research setting"
+- "Agile methodologies can be adapted so that they work well in a research setting"
 ---
 
 In this episode we will discuss and learn about challenges that arise when applying
-agile principles to research projects.
+agile principles to research projects. While some of the agile [values](https://agilemanifesto.org/) and [principles](https://agilemanifesto.org/principles.html) go hand in hand with the traditional way of doing academic research, others will require an investment of the team to change their way of working.
 
 > ## Discussion
-> What are challenges for an agile way of working specific to research?
+> What are the challenges for an agile way of working that are specific to research?
 >
 > > ## Solution
 > > ### Uncertainty Challenge
-> > When doing science, the time required to implement a solution is ambiguous and depends on unknowns such as
-> > outcomes of investigations and experiments or data availability.
+> > Scientific research is all about discovering the unknown. This makes the work predictably unpredictable to an enourmous extent.
+> > The development time of a certain part of the research can range from "already solved by someone else" to "impossible to solve".
+> > Also the requirements can suddenly change by 90 degrees based on the outcomes of a different part of the research project or the availability of data.
 > > ### Cultural challenge
-> > A scientist is traditionally used to working individually in an isolated silo.
+> > Many scientists are traditionally used to working individually in an isolated silo, without proper version control.
 > > Also management might be hesitant to let teams self-manage.
-> > Given this individualistic culture it is often intimidating to start with Agile practices.
+> > Given this individualistic culture it is often intimidating to start with Agile practices in a
+> > scientific context.
 > > ### Waterfall project setup challenge
-> > Scientific projects are often setup in long-term project timelines following a
+> > Scientific projects are often set up in long-term project timelines following a
 > > Waterfall method.
+> > It is not common to ensure early (weekly/monthly) continuous delivery of the research outcomes
+> > to the scientific community.
 > > ### Large-scale projects challenge
-> > Emergent design in iterative sprints does not always lead to the best large-scale functionality.
+> > Because scientific research is often not an optimization problem but an explorative journey,
+> > emergent design in iterative sprints does not always lead to the best large-scale functionality and/or desired research outcomes.
 > > ### Team dedication challenge
-> > Agile is often explained with the idea of a team fully dedicated to a single project.
-> > In academia team members are often involved in numerous projects in and outside of the team.
-> > ### Product owner challenge
-> > For a team running multiple research projects, who acts as product owner?
+> > Agile is often explained in the context of a team fully dedicated to a single project.
+> > In academia, team members may often be involved in numerous projects in and outside of the team.
+> > ### Product Owner challenge
+> > For a team running multiple research projects, who acts as product owner when applying the scrum framework?
 > > ### Distributed expertise challenge
 > > In Agile methodologies it is often assumed that a task can be picked up by any team member.
-> > However, in science different team members often have specialized in certain domains or technologies,
-> > and it makes more sense to assign specific tasks to members with a specific expertise.
-> > ### What is value challenge
-> > The goal of Agile way of working is to maximize value for the customer,
-> > but what is value in research? And who is the customer?
+> > In science, however, different team members have often specialized in certain domains or technologies,
+> > and it makes more sense to assign particular tasks to members with a relevant expertise.
+> > ### What is "value" challenge
+> > The goal of the Agile way of working is to maximize value for the customer,
+> > but what is "value" in research? And who is the customer?
+> > It is often hard/awkward to define scientific outcomes as products with a certain functionality.
 > {: .solution}
 {: .discussion}
 -----------------------------------------------
@@ -53,8 +59,9 @@ agile principles to research projects.
 {: .discussion}
 
 ### Uncertainty Challenge
-When doing science, the time required to implement a solution is ambiguous and depends on unknowns such as
-outcomes of investigations and experiments or data availability.
+Scientific research is all about discovering the unknown. This makes the work predictably unpredictable to an enourmous extent.
+The development time of a certain part of the research can range from "already solved by someone else" to "impossible to solve".
+Also the requirements can suddenly change by 90 degrees based on the outcomes of a different part of the research project or the availability of data.
 #### Solutions:
 - **Use *spikes***: The team could create *spikes*: items in the backlog that
 provide time for research and discovery.
@@ -69,7 +76,7 @@ exploratory work doesn't need to meet the same strict criteria as regular tasks.
 ### Cultural challenge
 A scientist is traditionally used to working individually in an isolated silo.
 Also management might be hesitant to let teams self-manage.
-Given this individualistic culture it is often intimidating to start with Agile practices.
+Given this individualistic culture it is often intimidating to start with Agile practices in a scientific context.
 #### Solutions:
 - **Implement flexibly**: You should fit the methodology to the way of working.
 'Process-rigidity is the antithesis of agility.'
@@ -78,15 +85,20 @@ Given this individualistic culture it is often intimidating to start with Agile 
 
 ----------------------------------------------------
 ### Waterfall project setup challenge
-Scientific projects are often setup in long-term project timelines following a
+Scientific projects are often set up in long-term project timelines following a
 Waterfall method.
+It is not common to ensure early (weekly/monthly) continuous delivery of the research outcomes
+to the scientific community.
 #### Solutions:
 - Clear communication is key. Inform your collaborators on your way of working and update them frequently.
-- Actually projects that follow the Waterfall method often do not make the targets set out at the start of the project.
+- While projects that follow the Waterfall method often do not make the targets set out at the start of the project because of the uncertainty of scientific research. Working in an Agile way enables the flexibility to change plans early on before too much time is spent on so called "dead-ends".
+- The open science movement is working on a
+[continuous and incremental publication model](https://theplosblog.plos.org/2021/01/future-landscape-of-scientific-publishing/)
+to enable early adoption of scientific results and/or methods. This model fits very well with an Agile way of working.
 
 ----------------------------------------------------
 ### Large-scale projects challenge
-Emergent design in iterative sprints does not always lead to the best large-scale functionality.
+Because scientific research is often not an optimization problem but an explorative journey, emergent design in iterative sprints does not always lead to the best large-scale functionality and/or desired research outcomes.
 #### Solutions
 -  It makes sense to do a few design sprints to set out the bigger plan before embarking on a project.
 - The [Architectural Runway](https://www.scaledagileframework.com/architectural-runway/)
@@ -94,39 +106,48 @@ approach revolves around more large-scale "intentional architectures".
 
 ----------------------------------------------------
 ### Team dedication challenge
-Agile is often explained with the idea of a team fully dedicated to a single project.
-In academia team members are often involved in numerous projects in and outside of the team.
+Agile is often explained in the context of a team fully dedicated to a single project.
+In academia, team members may often be involved in numerous projects in and outside of the team.
 #### Solutions:
 - **Implement flexibly**: Again: You should fit the methodology to the way of working.
 Start from where your team's activities do overlap and where teamwork seems most beneficial.
-- **Keeping track**: Experiment and iterate on ideas to find the best way to keep track of
+- **Keeping track**: Experiment and iterate on ideas to find the best method to keep track of
 the different projects in your team. You can start with a Kanban board and backlog for each project seperately.
 
 ----------------------------------------------------
-### Product owner challenge
-For a team running multiple research projects, who acts as product owner?
-#### Solutions:
+### Product Owner challenge
+For a team running multiple research projects, who acts as product owner when applying the scrum framework?
+>#### Solutions:
 - Each project has its own 'project owner' (usually a team member) that takes
 the role of product owner for that project.
 
 ------------------------------------------------
 ### Distributed expertise challenge
 In Agile methodologies it is often assumed that a task can be picked up by any team member.
-However, in science different team members often have specialized in certain domains or technologies,
-and it makes more sense to assign specific tasks to members with a specific expertise.
+In science, however, different team members have often specialized in certain domains or technologies,
+and it makes more sense to assign particular tasks to members with a relevant expertise.
 #### Solutions:
 - Not everyone has to be involved in everything!
-- Be explicit and open in each team members expertise and how that fits best to the different projects.
+- Be explicit and open about each team member's expertise and how it fits best within the different projects.
 
 ----------------------------------------------------
-### What is value challenge
-The goal of Agile way of working is to maximize value for the customer,
-but what is value in research? And who is the customer?
+### What is "value" challenge
+The goal of the Agile way of working is to maximize value for the customer,
+but what is "value" in research? And who is the customer?
+It is often hard/awkward to define scientific outcomes as products with a certain functionality.
 #### Solutions:
 - Discuss this in your team! Our proposition:
-    - Our customers: The Scientific Community at Large
+    - Our customers: The Scientific Community at Large, specific scientific sub-communities, non-scientific user communities, etc.
     - Value for our Customers: Useful, well programmed software. Output (papers, blogs etc.).
     Increased FAIR-ness and quality of research. Disseminated expertise on eScience Technology.
+    - Product: It helps to think of all outputs of scientific research as products: Posters, papers,
+    protocols, software, data, etc.
+    For example, in contrast to what the first value of the Agile manifesto reads, documentation is
+    often a very important key outcome of scientific research.
+    A scientific instrument/software/protocol can have many issues, but when it is well documented,
+    other groups can build on it.
+    Vice versa, even when a scientific instrument/software/protocol is functioning perfectly,
+    if it is undocumented, it is often useless for scientific research.
 
 ----------------------------------------------------
 ## Resources
