@@ -32,7 +32,7 @@ Joost thinks it would be more productive and fun if they would all work together
 Joost is aware of the possibility of working in teams, but it feels like something that only happens in industry and not research environments.
 Nevertheless, Joost is interested in starting his own team but he doesn't even know where to start.
 He wants to get an idea of what he should and shouldn't do when setting up a self-organising team.
-He would also like to get a feel for the tools and methodologies that exist for facilitating teamwork and, most importantly, the considerations and drawbacks of applying these in in a research environment.
+He would also like to get a feel for the tools and methodologies that exist for facilitating teamwork and, most importantly, the considerations and drawbacks of applying these in a research environment.
 
 ### Harold Harp
 
