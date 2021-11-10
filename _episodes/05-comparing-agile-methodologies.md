@@ -21,7 +21,7 @@ keypoints:
 >
 > | Aspect              | Scrum | Kanban |
 > |---------------------|-------|--------|
-> | Cadance             | Regular fixed length sprints (i.e. 2 weeks) | Continuous flow |
+> | Cadance             | Regular fixed length sprints (1-4 weeks) | Continuous flow |
 > | Release Methodology | A     | B      |
 > | Roles               | C     | D      |
 > | Key Metrics         | E     | F      |
@@ -44,7 +44,7 @@ keypoints:
 > >
 > > | Aspect              | Scrum | Kanban |
 > > |---------------------|-------|--------|
-> > | Cadance             | Regular fixed length sprints (i.e. 2 weeks) | Continuous flow |
+> > | Cadance             | Regular fixed length sprints (1-4 weeks) | Continuous flow |
 > > | Release Methodology | At the end of each sprint | Continuous delivery      |
 > > | Roles               | Product owner, scrum master, development team | No required roles |
 > > | Key Metrics         | Velocity | Lead time, cycle time, WIP |
@@ -84,13 +84,26 @@ They both provide a set of practical tools that allow you to work according to t
 {: .challenge}
 
 # ScrumBan and hybrid methodologies
-It is very common to do a mixture of Scrum and Kanban, picking the best of both worlds according to the team's needs.
+The Scrum framework itself is really strict in adapting the full set of scrum rules and not go "cherry picking".
+In general failed Scrum implementations are said to have failed because of: "not doing it right or not doing it completely".
+
+Nevertheless, it is common to do a mixture of Scrum and Kanban, picking the best of both worlds according to the team's needs.
 This is called ScrumBan.
 
-In fact it is quite common to use 'hybrid' methodologies, picking suitable aspects from different Agile methodologies.
+In fact it is quite common to use 'hybrid' methodologies, picking suitable aspects from any of the different Agile methodologies.
 
 We encourage you to iteratively shape the preferred methodology for your team, trying out different concepts from Kanban,
 Scrum and other methodologies.
+
+> ## Exercise: Ensuring team improvements
+> How would you ensure that your team keeps improving their team process and agile methodology?
+>
+> > ## Solution
+> > Having a recurring retrospective meeting that completely focuses on the team process ensures that
+> > the team will revise their working methods regularly.
+> > Without such a meeting it is easy to forget about this very important topic.
+> {: .solution}
+{: .challenge}
 
 # Other Agile methodologies
 See this  figure from the [2020 state of agile survey](https://stateofagile.com/#ufh-i-615706098-14th-annual-state-of-agile-report/7027494).
