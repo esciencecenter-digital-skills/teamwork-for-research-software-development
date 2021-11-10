@@ -22,7 +22,10 @@ keypoints:
 
 Our tips:
 - **Any mutation to the team makes a new team.** Whenever a team member leaves or is added to the team,
-you should treat this as the start of a new team.
+you should treat this as the start of a new team. 
+The ways of working before can be maintained for a start but be prepared for large changes in 
+the team dynamic, which will also influence which ways of working make up for the optimal 
+team process.
 - **Teams need a coach.** Self-organization of teams doesn't happen automatically.
 It can be very beneficial to have someone in or close to the team that can coach the
 team in the right direction.
