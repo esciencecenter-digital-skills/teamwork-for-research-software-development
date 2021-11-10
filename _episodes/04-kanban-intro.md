@@ -161,7 +161,7 @@ planning) from Scrum and a continuous workflow with WIP limits from Kanban.
 
 > ## Discussion
 >
-> Imagin that you are working with a Kanban board. One of the work-item in “In
+> Imagine that you are working with a Kanban board. One of the work-items in “In
 > Progress” got blocked. How do you deal with it in the Kanban workflow?
 {: .discussion}
 
