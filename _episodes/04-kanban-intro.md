@@ -66,7 +66,7 @@ statements that define how a user story can be completed.
 
 Columns together show the process or workflow. Each column represents a specific
 activity, for example “To Do", “In Progress”, "Done". Cards flow through the
-workflow until completion, i.e. from the left to right side of the board.
+workflow until completion, i.e. from the left to the right side of the board.
 
 - What if your team works on more than one project/product?
 
