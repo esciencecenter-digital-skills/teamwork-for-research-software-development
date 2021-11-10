@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Kanban."
+title: "Introduction to Kanban"
 teaching: 5
 exercises: 60
 questions:
@@ -18,10 +18,10 @@ keypoints:
 ## What is Kanban?
 
 Kanban is a process managemnet method. It balances demands with available
-capacity and improves the handling of bottelnecks. You can simply apply Kanban to
+capacity and improves the handling of bottlenecks. You can simply apply Kanban to
 your current process of developing software.
 
-You may often hear that Kanban is a `pull` system. It means that a new work-item
+You may often hear that Kanban is a "**pull**" system. It means that a new work-item
 is pulled to the process as capacity permits. We will explain this in the next
 section where we introduce a Kanban board. Read more about Kanban
 [here](https://www.atlassian.com/agile/kanban).
@@ -68,22 +68,20 @@ Columns together show the process or workflow. Each column represents a specific
 activity, for example “To Do", “In Progress”, "Done". Cards flow through the
 workflow until completion, i.e. from the left to right side of the board.
 
+- What if your team works on more than one project/product?
+
+If your team works on several projects/products, you can add one row (Swim Lane)
+for each of them. As an alternative, your team may decide to have a time-boxed
+workflow and work on one project at a time, see the section "Combining Scrum and
+Kanban (Scrumban)" in this lesson.
+
 > ## More examples of Kanban workflow (i.e. columns)
 >
-> - “To Do", “Doing”, "Done".
-> - “To Do", “In Progress”, "Review", "Done".
-> - “To Do", “In Progress”, "Demo", "Done".
-> - “Committed", "Analysed", “In Progress”, "Done".
-> - "Ready", "Estimate", “Development”, "Test", "Done".
-{: .callout}
-
-> ## What if your team works on more than one project/product?
->
-> If your team works on several projects/products, you can add one row (Swim
-> Lane) for each of them. As an alternative, your team may decide to have
-> time-boxed workflow and work on one project at a time, see the section
-> "Combining Scrum and Kanban (Scrumban)" in this lesson.
->
+> - To Do, Doing, Done.
+> - To Do, In Progress, Review, Done.
+> - To Do, In Progress, Demo, Done.
+> - Committed, Analysed, In Progress, Done.
+> - Ready, Estimate, Development, Test, Done.
 {: .callout}
 
 ### Continuous improvement
@@ -110,23 +108,18 @@ the team. In other words, a card is moved from backlog to “To Do" column.
 WIP limits are the maximum number of cards in “In Progress” column. For example,
 the column with a WIP limit=3 cannot have more than three cards in it.
 
-> ## Q and A
->
-> - How to estimate WIP limits?
->
-> WIP limits is an estimation of how much work the team can commit to. So, it
-> can vary depending on the team capacity and can be adjusted after a few
-> trials.
->
-> - What if the “In Progress” column is “maxed-out”?
->
-> When the "In Progress” column is “maxed-out”, the team needs to check if some
-> cards can be moved forward before adding new cards. If not, the team should
-> inspect the problem. Sometimes, either the WIP limits or the amount of the
-> work to commit in the current workflow need to be estimated again. Also, the
-> team might re-visit the acceptance criteria of a work-item.
->
-{: .callout}
+ - How to estimate WIP limits?
+
+ WIP limits is an estimation of how much work the team can commit to. So, it can
+   vary depending on the team capacity and can be adjusted after a few trials.
+
+- What if the “In Progress” column is “maxed-out”?
+
+When the "In Progress” column is “maxed-out”, the team needs to check if some
+  cards can be moved forward before adding new cards. If not, the team should
+  inspect the problem. Sometimes, either the WIP limits or the amount of the
+  work to commit in the current workflow need to be estimated again. Also, the
+  team might re-visit the acceptance criteria of a work-item.
 
 #### Delivery point
 
@@ -146,7 +139,7 @@ the delivery point as fast as possible.
 > ## Designing a kanban board
 >
 > Imagin that you are working on a project.
-
+>
 > - Let's create a Kanban board using
 [GitHub project boards](https://docs.github.com/en/issues/organizing-your-work-with-project-boards).
 > - Discuss the board with your colleagues.
