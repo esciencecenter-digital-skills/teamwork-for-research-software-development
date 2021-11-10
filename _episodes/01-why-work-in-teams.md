@@ -25,7 +25,7 @@ In this episode we will discuss and learn about why you should want to work in a
 > > - Better decision making
 > > - Increase quality of work by reviewing each other
 > > - More fun! (therefore more motivated, and therefore more productive)
-> > - Increase the bus factor (i.e. when someone get's under a bus, the team can take over)
+> > - Increase the bus factor (i.e. when someone falls under a bus, the team can take over)
 > > - Project goes on even if you don't work on it.
 > > - Shared ownership
 > > - Have multiple perspectives on performance from different team members.
