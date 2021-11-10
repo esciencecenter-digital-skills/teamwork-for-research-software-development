@@ -1,7 +1,7 @@
 ---
 title: "Practical recommendations for team work"
-teaching: FIXME
-exercises: FIXME
+teaching: 5
+exercises: 20
 questions:
 - "What are practical tips for doing team work?"
 - "What soft skills are valuable when working in teams?"
