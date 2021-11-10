@@ -62,7 +62,7 @@ If you want to learn more about giving feedback in a way that is pleasant for ot
 Trust between team members is important for:
 * Trusting each other to successfully finish tasks.
 * Giving good feedback to each other.
-And counting on feedback to be given to you in case of failure.
+* Knowing that feedback will be given to you in case you can improve on something.
 #### How to build trust in a team?
 * Create a safe environment for failures. Don't blame people personally.
 * Admit when you don't know something.
