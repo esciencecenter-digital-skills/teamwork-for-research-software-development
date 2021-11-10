@@ -13,10 +13,11 @@ objectives:
 keypoints:
 - "SCRUM is a powerfull agile methodology that can boost teamwork."
 ---
-For this episode we follow [this](http://growingagile.thinkific.com/courses/scrumbasics) course.
+One of the most popular frameworks that apply Agile manifesto and principles is 'Scrum'.
+To learn more about Scrum we follow [this online course](http://growingagile.thinkific.com/courses/scrumbasics).
 
 Please follow this ~1 hour course. It includes 3-8 minute video's focusing on
-various SCRUM topics, as well as accompanying exercises.
+various Scrum topics, as well as accompanying exercises.
 
 --------------------------------------------------------
 
