@@ -70,8 +70,7 @@ Trust between team members is important for:
 * Also talk regularly with your team members about non-work related stuff.
 
 ### Be inclusive
-Inclusivity is when individuals with different identities
-and backgrounds are welcomed in a group setting.
+Inclusivity is when individuals with different identities, backgrounds or other characteristics making them vulnerable for exclusion, are welcomed in a group setting.
 It is good to be aware of this in a team.
 #### Tips for being inclusive
 * Dare to speak up if you feel someone is left out.
