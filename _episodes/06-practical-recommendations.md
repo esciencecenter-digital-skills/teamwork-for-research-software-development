@@ -14,13 +14,13 @@ keypoints:
 - "Certain soft skills are vital for teamwork."
 ---
 # Practical recommendations
-> ## Discussion: what do you recommend?
-> Based on your own experience,
-> what are practical tips that you have for working collaboratively?
+> ## Discussion: your practical tips?
+> Based on your own experience, what would be your top-3 practical tips that
+> you would like to give for working collaboratively?
 > This can be based on experience with formal teams, in pairs, or any other form of collaborative work.
 {: .discussion}
 
-Our recommendations:
+Our tips:
 - **Any mutation to the team makes a new team.** Whenever a team member leaves or is added to the team,
 you should treat this as the start of a new team.
 - **Teams need a coach.** Self-organization of teams doesn't happen automatically.
@@ -42,14 +42,41 @@ These are some important soft skills needed in teams:
 Learning from each other is one of the benefits of team work.
 For this, giving good feedback is vital.
 #### How to give good feedback?
+* Make it specific
+* Give feedback from your perspective. Feedback is always subjective.
+* Don't wait too long with giving feedback.
+* Stay positive. A good rule is to always start with something positive.
+* Prepare your comments.
+#### How to receive feedback?
+* Don't feel attacked. The person giving you feedback is trying to help you.
+* Ask for clarification if the feedback is not specific enough.
 
 ### Build trust
+Trust between team members is important for:
+* Trusting each other to successfully finish tasks
+* Giving good feedback to each other.
+And counting on feedback to be given to you in case of failure.
+#### How to build trust in a team?
+* Create a safe environment for failures. Don't blame people personally.
+* Admit when you don't know something.
+* Give praise, better too often than too seldomly.
 
 ### Be inclusive
+Inclusivity is when individuals with different identities
+and backgrounds are welcomed in a group setting.
+It is good to be aware of this in a team.
+#### Tips for being inclusive
+* Dare to speak up if you feel someone is left out.
+If done constructively, this is usually appreciated by everyone.
+* Acknowledge that you have an unconscious bias.
+* Try to imagine yourself being in the place of your team members.
+* Having trust in the team helps (see above).
 
 ### Team bonding
-
-### Conflict resolution
+This may sound trivial, but don't underestimate the importance of team bonding.
+It really helps to step out of the formal office setting,
+and improve the relationships in the team over a drink, doing a sports activity, or solving
+an escape room together.
 
 # Wrapping up
 > ## Exercise: wrapping up
