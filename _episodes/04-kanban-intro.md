@@ -132,7 +132,7 @@ the delivery point as fast as possible.
 > Have a look at the examples of Kanban workflow (mentioned above).
 >
 > - Which of those can be used for the projects in your team?
-> - What are the other workflow that you are implementing in your team?
+> - What other workflows, if any, are you implementing in your team?
 >
 {: .discussion}
 
