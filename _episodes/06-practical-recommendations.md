@@ -3,7 +3,7 @@ title: "Practical recommendations for team work"
 teaching: FIXME
 exercises: FIXME
 questions:
-- "What are practical recommendations for doing team work?"
+- "What are practical tips for doing team work?"
 - "What soft skills are valuable when working in teams?"
 - "How can I apply what I learned in my daily work?"
 objectives:
@@ -14,9 +14,9 @@ keypoints:
 - "Certain soft skills are vital for teamwork."
 ---
 # Practical recommendations
-> ## Discussion: your practical tips?
+> ## Discussion: Your practical tips.
 > Based on your own experience, what would be your top-3 practical tips that
-> you would like to give for working collaboratively?
+> you would like to give someone that is new to working in a team?
 > This can be based on experience with formal teams, in pairs, or any other form of collaborative work.
 {: .discussion}
 
@@ -26,12 +26,14 @@ you should treat this as the start of a new team.
 - **Teams need a coach.** Self-organization of teams doesn't happen automatically.
 It can be very beneficial to have someone in or close to the team that can coach the
 team in the right direction.
+- **Enjoy.** Value joy in team meetings and interactions.
+Working together in an enthusiastic group of people makes all the rest simple.
 - **Invest in soft skills.** Certain soft skills are vital for teamwork, see below.
 
 # Soft skills
 Teams stand or fall with good soft skills of team members.
 
-> ## Discussion: soft skills
+> ## Discussion: Soft skills.
 > Which soft skills do you think are important to have when doing teamwork.
 > For example, think about applying the agile frameworks that we learned about,
 > what soft skills are important?
@@ -79,7 +81,7 @@ and improve the relationships in the team over a drink, doing a sports activity,
 an escape room together.
 
 # Wrapping up
-> ## Exercise: wrapping up
+> ## Exercise: Wrapping up.
 > Take a few minutes to write down your thoughts on
 > what you learned about teamwork in this course:
 > - What questions do you still have?
