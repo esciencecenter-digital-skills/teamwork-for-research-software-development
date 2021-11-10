@@ -5,15 +5,14 @@ exercises: 60
 questions:
 - "What is Kanban?"
 - "What is a Kanban board?"
-- "Kanban vs Scrum?"
 - "Can we combine Scrum and Kanban?"
 objectives:
 - "Describe the Kanban method"
-- "Understand how to work using a Kanban board"
-- ""
+- "Understand how to use a Kanban board"
 keypoints:
-- "Kanban is a framework used to implement Agile for software development."
-- ""
+- "Kanban consists of cards, columns, and continuous improvement."
+- "Main elements of cntinuous improvemnets: Commitment point, Work In Progress
+  (WIP) Limits, and Delivery point."
 ---
 
 ## What is Kanban?
