@@ -75,7 +75,7 @@ for each of them. As an alternative, your team may decide to have a time-boxed
 workflow and work on one project at a time, see the section "Combining Scrum and
 Kanban (Scrumban)" in this lesson.
 
-> ## More examples of Kanban workflow (i.e. columns)
+> ## More examples of Kanban workflows (i.e. columns)
 >
 > - To Do, Doing, Done.
 > - To Do, In Progress, Review, Done.
