@@ -66,7 +66,8 @@ And counting on feedback to be given to you in case of failure.
 #### How to build trust in a team?
 * Create a safe environment for failures. Don't blame people personally.
 * Admit when you don't know something.
-* Give praise, better too often than too seldomly.
+* Give praise. The importance of positive feedback is often forgotten.
+* Also talk regularly with your team members about non-work related stuff.
 
 ### Be inclusive
 Inclusivity is when individuals with different identities
