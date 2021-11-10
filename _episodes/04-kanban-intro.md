@@ -138,7 +138,7 @@ the delivery point as fast as possible.
 
 > ## Designing a kanban board
 >
-> Imagin that you are working on a project.
+> Imagine that you are working on a project.
 >
 > - Let's create a Kanban board using
 [GitHub project boards](https://docs.github.com/en/issues/organizing-your-work-with-project-boards).
