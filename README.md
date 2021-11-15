@@ -7,14 +7,6 @@ who would like to learn more about working in a team.
 
 This repository generates the corresponding lesson website from [The Carpentries](https://carpentries.org/) repertoire of lessons.
 
-### How to write hours:
-In exact:
-* 00020213 (Knowledge Development)
-* 00072 (KD SIG's)
-* Note: Teamwork course development
-
-Also fill in your hours [in this spreadsheet](https://nlesc-my.sharepoint.com/:x:/g/personal/s_vanderburg_esciencecenter_nl/EbgKWLA71sdEvecqKsfdb3MBuIlQe8Mei8WEKYMxIAZsPA?e=0pAYEI)
-
 ## Contributing
 We welcome all contributions to improve the lesson! Maintainers will do their best to help you if you have any
 questions, concerns, or experience any difficulties along the way.
@@ -30,6 +22,7 @@ by Scott Chacon.
 Look for the tag ![good_first_issue](https://img.shields.io/badge/-good%20first%20issue-gold.svg).
 This indicates that the maintainers will welcome a pull request fixing this issue.
 
+NB: NLeSC employees can write hours on this project, see instructions [here](https://nlesc.sharepoint.com/:w:/s/teamwork-sig/EV4T550nVQNAqIr1gMk8peIBBrIF6K_LZ71ACZvDlNUGLQ?e=GZvpTU)
 
 ## Maintainer(s)
 
