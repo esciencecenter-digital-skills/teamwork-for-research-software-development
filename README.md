@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/309687811.svg)](https://zenodo.org/badge/latestdoi/309687811)
+
 # Teamwork for Research Software Development
 
 This lesson is intended for people that create research software
