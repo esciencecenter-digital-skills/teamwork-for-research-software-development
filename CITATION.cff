@@ -1,0 +1,39 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Teamwork for Research Software Development Lesson
+message: >-
+  If you want to cite this lesson, please use these
+  metadata.
+type: software
+authors:
+  - given-names: Sven
+    name-particle: van der
+    family-names: Burg
+    email: s.vanderburg@esciencecenter.nl
+    affiliation: Netherlands eScience Center
+    orcid: 'https://orcid.org/0000-0003-1250-6968'
+  - given-names: Robin
+    family-names: Richardson
+    email: r.richardson@esciencecenter.nl
+    affiliation: Netherlands eScience Cneter
+    orcid: 'https://orcid.org/0000-0002-9984-2720'
+  - given-names: Berend
+    family-names: Weel
+    affiliation: Netherlands eScience Center
+  - given-names: Fakhereh
+    orcid: 'https://orcid.org/0000-0001-8407-6472'
+    family-names: Alidoost
+    email: f.alidoost@esciencecenter.nl
+    affiliation: Netherlands eScience Center
+  - given-names: Christiaan
+    family-names: Meijer
+    email: c.meijer@esciencecenter.nl
+    affiliation: Netherlands eScience Center
+    orcid: 'https://orcid.org/0000-0002-5529-5761'
+  - given-names: Jaro
+    family-names: Camphuijsen
+    email: j.camphuijsen@esciencecenter.nl
+    affiliation: Netherlands eScience Center
+    orcid: 'https://orcid.org/0000-0002-8928-7831'
