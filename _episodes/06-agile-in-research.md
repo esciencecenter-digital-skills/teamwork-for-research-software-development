@@ -1,7 +1,7 @@
 ---
 title: "Challenges for Agile way of working in research"
-teaching: 15
-exercises: 20
+teaching: 5
+exercises: 30
 questions:
 - "What are challenges for an Agile way of working in research and how do I solve them?"
 objectives:
