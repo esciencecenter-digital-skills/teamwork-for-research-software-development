@@ -1,7 +1,7 @@
 ---
 title: "Why work in teams?"
-teaching: 5
-exercises: 15
+teaching: 10
+exercises: 20
 questions:
 - "What are the benefits of working in a team?"
 - "What are downsides of working in a team?"
@@ -10,7 +10,39 @@ objectives:
 keypoints:
 - "If done well, working in a team is fun and productive"
 ---
-In this episode we will discuss and learn about why you should want to work in a team in the first place.
+
+## Introduction
+
+In this episode we will learn about teams and discuss why you should want to
+work in a team in the first place. To define a team, it is useful to look at
+teams in a continuum and think about the difference between a team and just any
+group of people:
+
+- Any gathering of people: they might not even know or see each other, nor
+  necessarily share common interests.
+- Groups: they are aware of each other and may interact, more than a
+  simple gathering of people.
+- Working group: a group with at least some common goals.
+- Team: a group of people who act together to achieve common goals. Often,
+  a group of individuals first form a working group. Then, they become a team.
+  As opposed to working groups, teams have collective responsibility, leadership, and achievements. Read more about differences between working groups and teams
+  [here](https://ec.europa.eu/eusa/ebooks/wit-en/book.html#chapter02).
+
+![team continuum](../fig/team_continuum.png)
+
+> ## Discussion
+>
+> Do you work in a working group or a team?
+{: .discussion}
+
+> ## Scrum team
+>
+> You might have heard of a _Scrum team_ that includes people with different
+roles. We will learn about it in the episode [Introduction to
+Scrum](./03-scrum-intro.md).
+{: .callout}
+
+## Why work in teams
 
 > ## Discussion
 >
