@@ -84,7 +84,7 @@ They both provide a set of practical tools that allow you to work according to t
 {: .challenge}
 
 # ScrumBan and hybrid methodologies
-The Scrum framework itself is really strict in adapting the full set of scrum rules and not go "cherry picking".
+The Scrum framework itself is really strict in adapting the full set of Scrum rules and not go "cherry picking".
 In general failed Scrum implementations are said to have failed because of: "not doing it right or not doing it completely".
 
 Nevertheless, it is common to do a mixture of Scrum and Kanban, picking the best of both worlds according to the team's needs.
