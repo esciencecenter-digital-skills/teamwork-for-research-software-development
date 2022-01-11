@@ -38,7 +38,7 @@ group of people:
 > ## Scrum team
 >
 > You might have heard of a _Scrum team_ that includes people with different
-roles. We will learn about it in the lesson [Introduction to
+roles. We will learn about it in the episode [Introduction to
 Scrum](./03-scrum-intro.md).
 {: .callout}
 
