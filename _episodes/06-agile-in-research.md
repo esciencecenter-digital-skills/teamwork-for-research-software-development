@@ -29,7 +29,7 @@ Scientific research is all about discovering the unknown. This makes the work pr
 The development time of a certain part of the research can range from "already solved by someone else" to "impossible to solve".
 Also the requirements can suddenly change by 90 degrees based on the outcomes of a different part of the research project or the availability of data.
 ### Cultural challenge
-Many scientists are traditionally used to working individually in an isolated silo, without proper version control.
+Many scientists are traditionally used to working individually in an isolated silo.
 Tasks in academia are often attributed to individuals and not to teams. A PhD-project is by default set up as a one-person project.
 Given this individualistic culture it is often intimidating to start with Agile practices in a
 scientific context.
@@ -39,21 +39,23 @@ Waterfall method.
 It is not common to ensure early (weekly/monthly) continuous delivery of the research outcomes
 to the scientific community.
 ### Large-scale projects challenge
-Because scientific research is often not an optimization problem but an explorative journey,
-emergent design in iterative sprints does not always lead to the best large-scale functionality and/or desired research outcomes.
+Scientific projects can be on a very large scale. It is hard to work together in very large teams.
+Also, having a continuously changing design in iterative sprints does not always lead to the best large-scale
+functionality and/or desired research outcomes.
 ### Team dedication challenge
 Agile is often explained in the context of a team fully dedicated to a single project.
 In academia, team members may often be involved in numerous projects in and outside of the team.
 ### Product Owner challenge
 For a team running multiple research projects, who acts as product owner when applying the scrum framework?
-### Distributed expertise challenge
-In Agile methodologies it is often assumed that a task can be picked up by any team member.
-In science, however, different team members have often specialized in certain domains or technologies,
-and it makes more sense to assign particular tasks to members with a relevant expertise.
-### What is "value" challenge
-The goal of the Agile way of working is to maximize value for the customer,
-but what is "value" in research? And who is the customer?
-It is often hard/awkward to define scientific outcomes as products with a certain functionality.
+### Specific expertise challenge
+For many scientific problems a very specific expertise is needed.
+This expertise is often even specific for a single project.
+This makes it hard to work together as other team members need to have or acquire this specific expertise.
+### What is our "product" challenge
+The Agile principles and related methodologies often talk about
+satisfying the "customer" with bringing "value" to a "product".
+But what is "value" in research? And who is the customer?
+It is often hard or awkward to define scientific outcomes as products with a certain functionality.
 
 -----------------------------------------------
 # Solutions
@@ -111,13 +113,14 @@ the different projects in your team. You can start with a Kanban board and backl
 the role of product owner for that project.
 
 ------------------------------------------------
-### Distributed expertise challenge
+### Specific expertise challenge
 #### Solutions:
 - Not everyone has to be involved in everything!
+You can help each other out on a conceptual level even without knowing all the details.
 - Be explicit and open about each team member's expertise and how it fits best within the different projects.
 
 ----------------------------------------------------
-### What is "value" challenge
+### What is our "product" challenge
 #### Solutions:
 - Discuss this in your team! Our proposition:
     - Our customers: The Scientific Community at Large, specific scientific sub-communities, non-scientific user communities, etc.
