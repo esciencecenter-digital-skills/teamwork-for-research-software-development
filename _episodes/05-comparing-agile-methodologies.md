@@ -48,38 +48,45 @@ They both provide a set of practical tools that allow you to work according to t
 > ## Exercise: key differences between Scrum and Kanban
 > See the following uncomplete table:
 >
-> | Aspect              | Scrum | Kanban |
-> |---------------------|-------|--------|
-> | Cadance             | Regular fixed length sprints (1-4 weeks) | Continuous flow |
-> | Release Methodology | A     | B      |
-> | Roles               | C     | D      |
-> | Key Metrics         | E     | F      |
-> | Change Philosophy   | G     | H      |
+> | Aspect                        | Scrum | Kanban |
+> |-------------------------------|-------|--------|
+> | Release Methodology           | At the end of each sprint | Continuous delivery |
+> | Cadance                       |      |       |
+> | Roles                         |      |       |
+> | Amount of work estimation     |      |       |
+> | Change Philosophy             |      |       |
+> | Meetings                      |      |       |
 >
-> It denotes the differences between Scrum and Kanban for 5 key aspects.
-> **The first row (Cadance) is filled, but your task is to fill the last 4 rows of the table (for cells A-H).**
+> It denotes the differences between Scrum and Kanban for 6 key aspects.
+> **The first row (Release Methodology) is filled.
+> Your task is to fill the last 5 rows of the table.**
+> Use the following values to fill it:
 >
-> Choose from the following items:
-> - Lead time, cycle time, WIP
-> - Product owner, scrum master, development team
-> - Continuous delivery
-> - Teams should not make changes during the sprint
-> - No required roles
-> - At the end of each sprint
-> - Velocity
-> - Change can happen at any time
+> |    |                                                                                      |
+> |----|--------------------------------------------------------------------------------------|
+> | 1  | Strict roles: Product owner, scrum master & development team                         |
+> | 2  | Continuous flow                                                                      |
+> | 3  | Teams should not make changes during the sprint                                      |
+> | 4  | No strict meetings                                                                   |
+> | 5  | No required roles, perhaps a Product Owner                                           |
+> | 6  | It is assumed that the amount of work is somewhat equal for different work items     |
+> | 7  | Strict meetings: sprint planning, sprint review, sprint retrospective, daily standup |
+> | 8  | Change can happen at any time                                                        |
+> | 9  | Amount of work for a work-item is estimated in story points                          |
+> | 10 | Regular fixed length sprints (1-4 weeks)                                             |
 >
 > > ## Solution
 > >
 > > | Aspect              | Scrum | Kanban |
 > > |---------------------|-------|--------|
-> > | Cadance             | Regular fixed length sprints (1-4 weeks) | Continuous flow |
-> > | Release Methodology | At the end of each sprint | Continuous delivery      |
-> > | Roles               | Product owner, scrum master, development team | No required roles |
-> > | Key Metrics         | Velocity | Lead time, cycle time, WIP |
-> > | Change Philosophy   | Teams should not make changes during the sprint | Change can happen at any time |
+> > | Release Methodology | At the end of each sprint | Continuous delivery |
+> > | Cadance             | 10: Regular fixed length sprints (1-4 weeks) | 2: Continuous flow |
+> > | Roles               | 1: Strict roles: Product owner, scrum master, development team | 5: No required roles, perhaps a Product Owner |
+> > | Amount of work estimation | 9: Amount of work for a work-item is estimated in story points    | 6: It is assumed that the amount of work is somewhat equal for different work items |
+> > | Change Philosophy   | 3: Teams should not make changes during the sprint | 8: Change can happen at any time |
+> > | Meetings            | 7: Strict meetings: sprint planning, sprint review, sprint retrospective, daily standup | 4: No strict meetings |
 > >
-> > NB: Taken from https://www.atlassian.com/agile/kanban/kanban-vs-scrum
+> > NB: Adapted from https://www.atlassian.com/agile/kanban/kanban-vs-scrum
 > {: .solution}
 {: .challenge}
 
