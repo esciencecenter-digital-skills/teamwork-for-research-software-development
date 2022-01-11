@@ -5,12 +5,11 @@ exercises: 20
 questions:
 - "What are challenges for an Agile way of working in research and how do I solve them?"
 objectives:
-- "Know how to do waterfall projects in an Agile way"
-- "Know how to deal with different expertise in a team"
-- "Remember to fit the methodology to your way of working"
-- "Know how to deal with uncertainty and dependencies in projects"
+- "List challenges for an Agile way of working in research"
+- "Know the solutions to challenges for an Agile way of working in research"
 keypoints:
 - "Agile methodologies can be adapted so that they work well in a research setting"
+- "Remember to fit the methodology to your way of working"
 ---
 
 In this episode we will discuss and learn about challenges that arise when applying
