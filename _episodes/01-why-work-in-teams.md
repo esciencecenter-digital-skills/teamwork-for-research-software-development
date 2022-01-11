@@ -43,7 +43,6 @@ Scrum](./03-scrum-intro.md).
 {: .callout}
 
 ## Why work in teams
-In this episode we will discuss and learn about why you should want to work in a team in the first place.
 
 > ## Discussion
 >
