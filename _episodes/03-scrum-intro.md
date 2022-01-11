@@ -1,17 +1,17 @@
 ---
 title: "Introduction to Scrum"
 teaching: 10
-exercises: 60
+exercises: 75
 questions:
 - "What are the 3 key roles in a Scrum team?"
-- "What are the different scrum rituals?"
+- "What are the different Scrum rituals?"
 - "What are the Scrum artifacts?"
 objectives:
 - "Describe the 3 key roles in a Scrum team"
-- "List the different scrum rituals"
+- "List the different Scrum rituals"
 - "List the Scrum artifacts"
 keypoints:
-- "Scrum is a powerfull Agile methodology that can boost teamwork."
+- "Scrum is a powerful Agile methodology that demands an 'all or nothing' approach to work, but it is not a perfect fit for all teams."
 ---
 One of the most popular methodologies that apply the Agile manifesto and principles is 'Scrum'.
 
@@ -20,11 +20,12 @@ One of the most popular methodologies that apply the Agile manifesto and princip
 >
 > Please follow this ~1 hour course. It includes 3-8 minute video's focusing on
 > various Scrum topics, as well as accompanying exercises.
+{: .challenge}
 
 --------------------------------------------------------
 
 > ## Discussion
->> Think about following the Scrum methodology when working on your projects in a team.
+> Think about following the Scrum methodology when working on your projects in a team.
 > - What questions do you still have?
 > - Are there any incremental improvements that can benefit your team?
 > - What did you learn in the online course that you think is too much for your team?
@@ -45,7 +46,7 @@ Failure of a team doing Scrum is often blamed upon them not following the actual
 > Do you agree with this statement?
 {: .discussion}
 
-From experience we know that following the exact scrum rules not always fits a team well as the team might be bounded by other restrictions. We will go deeper into the specific challenges that we run into when we want to do scientific research within a team (in [episode 6](06-agile-in-research.md)). We will first discuss a different Agile implementation, called Kanban in the next episode.
+From experience we know that following the exact Scrum rules does not always fit a team well as the team might be bound by other restrictions. We will go deeper into the specific challenges that we run into when we want to do scientific research within a team (in [episode 6](06-agile-in-research.md)). We will first discuss a different Agile implementation, called Kanban in the next episode.
 
 {% include links.md %}
 
