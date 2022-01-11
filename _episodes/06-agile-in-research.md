@@ -20,6 +20,8 @@ agile principles to research projects. While some of the agile [values](https://
 # Challenges
 > ## Discussion
 > What are the challenges for an agile way of working that are specific to research?
+> These might be challenges that are more generic to doing teamwork in research,
+> instead of just the Agile way of working.
 {: .discussion}
 
 ### Uncertainty Challenge
