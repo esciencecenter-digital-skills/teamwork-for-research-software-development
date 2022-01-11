@@ -44,7 +44,6 @@ They both provide a set of practical tools that allow you to work according to t
 {: .challenge}
 
 # Differences between Scrum and Kanban
-[comment]: <> (This excercise is literally copied from https://www.atlassian.com/agile/kanban/kanban-vs-scrum)
 > ## Exercise: key differences between Scrum and Kanban
 > See the following incomplete table:
 >
