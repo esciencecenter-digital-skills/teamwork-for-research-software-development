@@ -11,7 +11,7 @@ objectives:
 - "List the different Scrum rituals"
 - "List the Scrum artifacts"
 keypoints:
-- "Scrum is a powerful Agile methodology that can boost teamwork."
+- "Scrum is a powerful Agile methodology that demands an 'all or nothing' approach to work, but it is not a perfect fit for all teams."
 ---
 One of the most popular methodologies that apply the Agile manifesto and principles is 'Scrum'.
 
