@@ -1,7 +1,7 @@
 ---
 title: "Why work in teams?"
-teaching: 5
-exercises: 15
+teaching: 10
+exercises: 20
 questions:
 - "What are the benefits of working in a team?"
 - "What are downsides of working in a team?"
