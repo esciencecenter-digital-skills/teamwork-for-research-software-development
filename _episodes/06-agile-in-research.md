@@ -1,25 +1,26 @@
 ---
 title: "Challenges for Agile way of working in research"
-teaching: 15
-exercises: 20
+teaching: 40
+exercises: 0
 questions:
-- "What are challenges for an agile way of working in research and how do I solve them?"
+- "What are challenges for an Agile way of working in research and how do I solve them?"
 objectives:
-- "Know how to do waterfall projects in an Agile way"
-- "Know how to deal with different expertise in a team"
-- "Remember to fit the methodology to your way of working"
-- "Know how to deal with uncertainty and dependencies in projects"
+- "List challenges for an Agile way of working in research"
+- "Know the solutions to challenges for an Agile way of working in research"
 keypoints:
-- "Agile methodologies can be adapted so that they work well in a research setting"
+- "Agile methodologies should be slightly adapted so that they work well in a research setting"
+- "Remember to fit the methodology to your way of working"
 ---
 
 In this episode we will discuss and learn about challenges that arise when applying
-agile principles to research projects. While some of the agile [values](https://agilemanifesto.org/) and [principles](https://agilemanifesto.org/principles.html) go hand in hand with the traditional way of doing academic research, others will require an investment of the team to change their way of working.
+Agile principles to research projects. While some of the Agile [values](https://agilemanifesto.org/) and [principles](https://agilemanifesto.org/principles.html) go hand in hand with the traditional way of doing academic research, others will require an investment of the team to change their way of working.
 
 --------------------------------------------------------
 # Challenges
 > ## Discussion
-> What are the challenges for an agile way of working that are specific to research?
+> What are the challenges for an Agile way of working that are specific to research?
+> These might be challenges that are more generic to doing teamwork in research,
+> instead of just the Agile way of working.
 {: .discussion}
 
 ### Uncertainty Challenge
@@ -27,7 +28,7 @@ Scientific research is all about discovering the unknown. This makes the work pr
 The development time of a certain part of the research can range from "already solved by someone else" to "impossible to solve".
 Also the requirements can suddenly change by 90 degrees based on the outcomes of a different part of the research project or the availability of data.
 ### Cultural challenge
-Many scientists are traditionally used to working individually in an isolated silo, without proper version control.
+Many scientists are traditionally used to working individually in an isolated silo.
 Tasks in academia are often attributed to individuals and not to teams. A PhD-project is by default set up as a one-person project.
 Given this individualistic culture it is often intimidating to start with Agile practices in a
 scientific context.
@@ -37,21 +38,23 @@ Waterfall method.
 It is not common to ensure early (weekly/monthly) continuous delivery of the research outcomes
 to the scientific community.
 ### Large-scale projects challenge
-Because scientific research is often not an optimization problem but an explorative journey,
-emergent design in iterative sprints does not always lead to the best large-scale functionality and/or desired research outcomes.
+Scientific projects can be on a very large scale. It is hard to work together in very large teams.
+Also, having a continuously changing design in iterative sprints does not always lead to the best large-scale
+functionality and/or desired research outcomes.
 ### Team dedication challenge
 Agile is often explained in the context of a team fully dedicated to a single project.
 In academia, team members may often be involved in numerous projects in and outside of the team.
 ### Product Owner challenge
 For a team running multiple research projects, who acts as product owner when applying the scrum framework?
-### Distributed expertise challenge
-In Agile methodologies it is often assumed that a task can be picked up by any team member.
-In science, however, different team members have often specialized in certain domains or technologies,
-and it makes more sense to assign particular tasks to members with a relevant expertise.
-### What is "value" challenge
-The goal of the Agile way of working is to maximize value for the customer,
-but what is "value" in research? And who is the customer?
-It is often hard/awkward to define scientific outcomes as products with a certain functionality.
+### Specific expertise challenge
+For many scientific problems a very specific expertise is needed.
+This expertise is often even specific for a single project.
+This makes it hard to work together as other team members need to have or acquire this specific expertise.
+### What is our "product" challenge
+The Agile principles and related methodologies often talk about
+satisfying the "customer" with bringing "value" to a "product".
+But what is "value" in research? And who is the customer?
+It is often hard or awkward to define scientific outcomes as products with a certain functionality.
 
 -----------------------------------------------
 # Solutions
@@ -75,7 +78,7 @@ exploratory work doesn't need to meet the same strict criteria as regular tasks.
 #### Solutions:
 - **Implement flexibly**: You should fit the methodology to the way of working.
 'Process-rigidity is the antithesis of agility.'
-- **Emphasize the "why"**: Focus on the "why" for the change to agile instead of
+- **Emphasize the "why"**: Focus on the "why" for the change to Agile instead of
 "what" to do to make the change.
 
 ----------------------------------------------------
@@ -109,13 +112,14 @@ the different projects in your team. You can start with a Kanban board and backl
 the role of product owner for that project.
 
 ------------------------------------------------
-### Distributed expertise challenge
+### Specific expertise challenge
 #### Solutions:
 - Not everyone has to be involved in everything!
+You can help each other out on a conceptual level even without knowing all the details.
 - Be explicit and open about each team member's expertise and how it fits best within the different projects.
 
 ----------------------------------------------------
-### What is "value" challenge
+### What is our "product" challenge
 #### Solutions:
 - Discuss this in your team! Our proposition:
     - Our customers: The Scientific Community at Large, specific scientific sub-communities, non-scientific user communities, etc.
@@ -135,6 +139,8 @@ the role of product owner for that project.
 - [Scrum for Data Science](http://www.datascience-pm.com/scrum/)
 - [Reinventing Research: Agile in the Academic Laboratory](https://www.agilealliance.org/resources/experience-reports/reinventing-research-agile-in-the-academic-laboratory/)
 . Includes a proposition for an Agile Manifesto for academia.
+
+Of course, methodological issues are not the only challenge in team work. Soft skills can be just as important, if not more. We discuss this next, in [episode 7](07-practical-recommendations.md).
 
 {% include links.md %}
 

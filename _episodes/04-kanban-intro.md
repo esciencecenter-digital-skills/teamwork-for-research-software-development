@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Kanban"
-teaching: 5
-exercises: 60
+teaching: 15
+exercises: 30
 questions:
 - "What is Kanban?"
 - "What is a Kanban board?"
@@ -136,7 +136,7 @@ the delivery point as fast as possible.
 >
 {: .discussion}
 
-> ## Designing a kanban board
+> ## Designing a Kanban board
 >
 > Imagine that you are working on a project.
 >
@@ -146,23 +146,43 @@ the delivery point as fast as possible.
 >
 {: .discussion}
 
-## Combining Scrum and Kanban (Scrumban)
+> ## Exercise
+>
+> Imagine that you are working with a Kanban board. One of the work items in “In
+> Progress” got blocked. The _blocked_ item means that the team is not able to
+> continue working on it because it is waiting for something from outside the
+> team. How do you deal with the blocked item in the Kanban workflow?
+>
+> > ## Solution
+> >
+> > The simplest but effective approach is to put a "red dot" on the item. In an
+> online board, it is possible to add a tag/label and more information like why
+> this item is blocked, for how long, and who will unblock it. This visualizes
+> the situation. So, the team can immediately see that the item is blocked and
+> have it under control.
+> Now, the blocked item does not count as a WIP item and 
+> the team could potentially add an extra work-item to 'In Progress'.
+> {: .solution}
+{: .challenge}
+
+## Summary
 
 Kanban is great for processes focused on continuous delivery with changing
 priorities. On the other hand, Scrum divides work into a series of time-boxed
-iterations called sprints (see [episode 3](./03-scrum-into.md)).
-
-But maybe a combination of Scrum and Kanban (known as "Scrumban") is what
-your team would benefit the most from.
-
-Scrumban manifests itself in different ways depending on your team
-characteristics. The team may use team meetings (like retrospective and
-planning) from Scrum and a continuous workflow with WIP limits from Kanban.
+iterations called sprints (see [episode 3](./03-scrum-into.md)). But maybe a
+combination of Scrum and Kanban (known as "ScrumBan") is what your team would
+benefit the most from. We will learn about it in the [next
+lesson](./05-comparing-agile-methodologies.md).
 
 > ## Discussion
 >
-> Imagine that you are working with a Kanban board. One of the work-items in “In
-> Progress” got blocked. How do you deal with it in the Kanban workflow?
+> Think about following the Kanban methodology when working on your projects in a team.
+>
+> - What questions do you still have?
+> - Are there any incremental improvements that can benefit your team?
+> - What did you learn in the online course that you think is too much for your team?
 {: .discussion}
+
+Challenges specific to research projects will be discussed later, in [episode 6](06-agile-in-research.md).
 
 {% include links.md %}

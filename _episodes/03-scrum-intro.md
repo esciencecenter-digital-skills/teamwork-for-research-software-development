@@ -46,7 +46,7 @@ Failure of a team doing Scrum is often blamed upon them not following the actual
 > Do you agree with this statement?
 {: .discussion}
 
-From experience we know that following the exact Scrum rules does not always fit a team well as the team might be bounded by other restrictions. We will go deeper into the specific challenges that we run into when we want to do scientific research within a team. We will first discuss a different Agile implementation, called Kanban in the next episode.
+From experience we know that following the exact Scrum rules does not always fit a team well as the team might be bound by other restrictions. We will go deeper into the specific challenges that we run into when we want to do scientific research within a team (in [episode 6](06-agile-in-research.md)). We will first discuss a different Agile implementation, called Kanban in the next episode.
 
 {% include links.md %}
 
