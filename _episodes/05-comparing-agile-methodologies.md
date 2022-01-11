@@ -49,12 +49,12 @@ They both provide a set of practical tools that allow you to work according to t
 >
 > | Aspect                        | Scrum | Kanban |
 > |-------------------------------|-------|--------|
-> | Release Methodology           | At the end of each sprint | Continuous delivery |
-> | Cadance                       |      |       |
-> | Roles                         |      |       |
-> | Amount of work estimation     |      |       |
-> | Change Philosophy             |      |       |
-> | Meetings                      |      |       |
+> | Release Methodology           |  At the end of each sprint   |   Continuous delivery  |
+> | Cadance                       |  A    |   B    |
+> | Roles                         |  C    |   D    |
+> | Amount of work estimation     |  E    |   F    |
+> | Change Philosophy             |  G    |   H    |
+> | Meetings                      |  I    |   J    |
 >
 > It denotes the differences between Scrum and Kanban for 6 key aspects.
 > **The first row (Release Methodology) is filled.
@@ -74,6 +74,9 @@ They both provide a set of practical tools that allow you to work according to t
 > | 9  | Amount of work for a work-item is estimated in story points                          |
 > | 10 | Regular fixed length sprints (1-4 weeks)                                             |
 >
+> You can write down your answer by combining the letters in the cells (A-J)
+> with the numbers of the possible values (1-10).
+>
 > > ## Solution
 > >
 > > | Aspect              | Scrum | Kanban |
@@ -84,6 +87,8 @@ They both provide a set of practical tools that allow you to work according to t
 > > | Amount of work estimation | 9: Amount of work for a work-item is estimated in story points    | 6: It is assumed that the amount of work is somewhat equal for different work items |
 > > | Change Philosophy   | 3: Teams should not make changes during the sprint | 8: Change can happen at any time |
 > > | Meetings            | 7: Strict meetings: sprint planning, sprint review, sprint retrospective, daily standup | 4: No strict meetings |
+> >
+> > The letter-number combinations are: A10, B2, C1, D5, E9, F6, G3, H8, I7, J4
 > >
 > > NB: Adapted from https://www.atlassian.com/agile/kanban/kanban-vs-scrum
 > {: .solution}
