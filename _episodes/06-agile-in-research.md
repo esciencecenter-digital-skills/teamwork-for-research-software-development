@@ -8,7 +8,7 @@ objectives:
 - "List challenges for an Agile way of working in research"
 - "Know the solutions to challenges for an Agile way of working in research"
 keypoints:
-- "Agile methodologies can be adapted so that they work well in a research setting"
+- "Agile methodologies should be slightly adapted so that they work well in a research setting"
 - "Remember to fit the methodology to your way of working"
 ---
 
