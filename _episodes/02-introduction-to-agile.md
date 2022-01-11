@@ -16,7 +16,7 @@ keypoints:
 # What is Agile?
 The term 'Agile' refers to a broad family of software development methodologies. The core concepts linking these methodologies is iterative development, with frequent interaction between interested parties to decide and update requirements.
 
-Is that all? Well, there is a bit more to it than this, but the best way to get a feel for Agile is to understand why it exists in the first place: it is a reaction to the 'Waterfall' methodology. Let us first look at Waterfall, to see the problems that Agile is trying to solve.
+Is that all? Well, there is a bit more to it than this, but the best way to get a feel for Agile is to understand why it exists in the first place: it is a reaction to the type of 'Waterfall' methodology that was prevalent at the time. Let us first look at what 'Waterfall' means, to see the problems that Agile is trying to solve.
 
 # Waterfall model
 Typically, many real-world (software development) projects
@@ -85,15 +85,18 @@ Watch [this video introducing the Agile manifesto](http://growingagile.thinkific
 > > - Because of incremental nature it is hard to say when something is done.
 > > - You need a high level of collaboration that is hard to maintain.
 > > - You need support from the management to do it effectively.
+> >
+> > ### Summary: Why should I work in an Agile way?
+> > Essentially, Agile works well for projects in which we do not know all the requirements in detail at the start, and in which requirements are likely to change during the course of the project. This is very likely the case in a research project, which naturally have many unknowns and the requirements of software can change as new information is collected. Both Agile and Waterfall are suitable for teams, but an Agile approach gives the team more power to adapt and organize itself.
 > {: .solution}
 {: .challenge}
 
 
 > ## Disclaimer to comparison with waterfall model
 > It is good to note that the comparison of the Agile movement with the waterfall model
-> is a bit artificial. Agile methodologies are often framed as **the** way of solving waterfall model pitfalls,
+> is a bit artificial. Agile methodologies are often framed as **the** way of solving the pitfalls of the Waterfall model,
 > but there have been modifications of the 'pure' waterfall model that accommodate
-> these pitfalls too. In fact they are not mutually exclusive, and you could apply
-> principle 12 by picking aspects from the waterfall model to continuously improve your teams process.
+> these pitfalls too. In fact, they are not mutually exclusive and you could apply
+> principle 12 by picking aspects from the Waterfall model to continuously improve your teams process.
 {: .callout}
 {% include links.md %}
