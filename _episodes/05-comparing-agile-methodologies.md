@@ -1,7 +1,7 @@
 ---
 title: "Comparing Agile methodologies"
 teaching: 5
-exercises: 15
+exercises: 20
 questions:
 - "How do Scrum and Kanban relate to the Agile manifesto?"
 - "What are differences between Scrum and Kanban?"
