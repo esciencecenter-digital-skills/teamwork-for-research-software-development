@@ -20,11 +20,12 @@ One of the most popular methodologies that apply the Agile manifesto and princip
 >
 > Please follow this ~1 hour course. It includes 3-8 minute video's focusing on
 > various Scrum topics, as well as accompanying exercises.
+{: .challenge}
 
 --------------------------------------------------------
 
 > ## Discussion
->> Think about following the Scrum methodology when working on your projects in a team.
+> Think about following the Scrum methodology when working on your projects in a team.
 > - What questions do you still have?
 > - Are there any incremental improvements that can benefit your team?
 > - What did you learn in the online course that you think is too much for your team?
