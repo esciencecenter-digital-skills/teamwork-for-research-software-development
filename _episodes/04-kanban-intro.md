@@ -136,7 +136,7 @@ the delivery point as fast as possible.
 >
 {: .discussion}
 
-> ## Designing a kanban board
+> ## Designing a Kanban board
 >
 > Imagine that you are working on a project.
 >
@@ -167,8 +167,10 @@ the delivery point as fast as possible.
 
 Kanban is great for processes focused on continuous delivery with changing
 priorities. On the other hand, Scrum divides work into a series of time-boxed
-iterations called sprints (see [episode 3](./03-scrum-into.md)). But maybe a combination of Scrum and Kanban (known as "ScrumBan") is what your
-team would benefit the most from. We will learn about it in the [next lesson](./05-comparing-agile-methodologies.md).
+iterations called sprints (see [episode 3](./03-scrum-into.md)). But maybe a
+combination of Scrum and Kanban (known as "ScrumBan") is what your team would
+benefit the most from. We will learn about it in the [next
+lesson](./05-comparing-agile-methodologies.md).
 
 > ## Discussion
 >
