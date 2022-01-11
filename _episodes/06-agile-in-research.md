@@ -136,5 +136,7 @@ the role of product owner for that project.
 - [Reinventing Research: Agile in the Academic Laboratory](https://www.agilealliance.org/resources/experience-reports/reinventing-research-agile-in-the-academic-laboratory/)
 . Includes a proposition for an Agile Manifesto for academia.
 
+Of course, methodological issues are not the only challenge in team work. Soft skills can be just as important, if not more. We discuss this next, in [episode 7](07-practical-recommendations.md).
+
 {% include links.md %}
 
