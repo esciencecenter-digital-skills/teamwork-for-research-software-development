@@ -88,10 +88,10 @@ Watch [this video introducing the Agile manifesto](http://growingagile.thinkific
 > >
 > > ### Summary: Why should I work in an Agile way?
 > > Essentially, Agile works well for projects in which we do not know all the requirements in detail at the start, and in which requirements are likely to change during the course of the project. This is very likely the case in a research project, which naturally have many unknowns and the requirements of software can change as new information is collected. Both Agile and Waterfall are suitable for teams, but an Agile approach gives the team more power to adapt and organize itself.
-
-In short: following the agile principles helps teams to make the benefits of working in a team outweigh the downsides. 
 > {: .solution}
 {: .challenge}
+
+In short: following the Agile principles helps teams to make the benefits of working in a team outweigh the downsides. See [episode 6](06-agile-in-research.md) for more on the challenges of applying Agile methods in research.
 
 
 > ## Disclaimer to comparison with waterfall model
