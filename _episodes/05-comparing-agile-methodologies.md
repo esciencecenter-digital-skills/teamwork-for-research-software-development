@@ -89,6 +89,9 @@ In general failed Scrum implementations are said to have failed because of: "not
 
 Nevertheless, it is common to do a mixture of Scrum and Kanban, picking the best of both worlds according to the team's needs.
 This is called ScrumBan.
+ScrumBan manifests itself in different ways depending on your team
+characteristics. The team may use team meetings (like retrospective and
+planning) from Scrum and a continuous workflow with WIP limits from Kanban.
 
 In fact it is quite common to use 'hybrid' methodologies, picking suitable aspects from any of the different Agile methodologies.
 
