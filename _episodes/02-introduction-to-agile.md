@@ -12,6 +12,12 @@ objectives:
 keypoints:
 - "The Agile manifesto provides good pointers for successfully working on software projects as a team"
 ---
+
+# What is Agile?
+The term 'Agile' refers to a broad family of software development methodologies. The core concepts linking these methodologies is iterative development, with frequent interaction between interested parties to decide and update requirements.
+
+Is that all? Well, there is a bit more to it than this, but the best way to get a feel for Agile is to understand why it exists in the first place: it is a reaction to the 'Waterfall' methodology. Let us first look at Waterfall, to see the problems that Agile is trying to solve.
+
 # Waterfall model
 Typically, many real-world (software development) projects
 are divided into different phases, where each phase depends on the
