@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Scrum"
 teaching: 10
-exercises: 60
+exercises: 75
 questions:
 - "What are the 3 key roles in a Scrum team?"
 - "What are the different Scrum rituals?"
