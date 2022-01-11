@@ -1,5 +1,5 @@
 ---
-title: "Comparing agile methodologies"
+title: "Comparing Agile methodologies"
 teaching: 5
 exercises: 15
 questions:
@@ -59,7 +59,7 @@ Scrum and Kanban are both Agile methodologies.
 They both provide a set of practical tools that allow you to work according to the Agile manifesto and principles.
 
 > ## Exercise: Compare Scrum and Kanban with the Agile manifesto principles
-> Pick one or more principles from the [12 principles behind the agile manifesto](http://agilemanifesto.org/principles.html)
+> Pick one or more principles from the [12 principles behind the Agile manifesto](http://agilemanifesto.org/principles.html)
 > that we discussed in episode 2.
 > **Write down how Scrum and Kanban practically implement these principles.**
 > 1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
@@ -96,7 +96,7 @@ We encourage you to iteratively shape the preferred methodology for your team, t
 Scrum and other methodologies.
 
 > ## Exercise: Ensuring team improvements
-> How would you ensure that your team keeps improving their team process and agile methodology?
+> How would you ensure that your team keeps improving their team process and Agile methodology?
 >
 > > ## Solution
 > > Having a recurring retrospective meeting that completely focuses on the team process ensures that
@@ -106,11 +106,11 @@ Scrum and other methodologies.
 {: .challenge}
 
 # Other Agile methodologies
-See this  figure from the [2020 state of agile survey](https://stateofagile.com/#ufh-i-615706098-14th-annual-state-of-agile-report/7027494).
-It depicts the popularity of used agile methodologies.
-<img src="../fig/agile-methodologies.svg" alt="agile methodologies" width="800"/>
+See this  figure from the [2020 state of Agile survey](https://stateofagile.com/#ufh-i-615706098-14th-annual-state-of-agile-report/7027494).
+It depicts the popularity of used Agile methodologies.
+<img src="../fig/agile-methodologies.svg" alt="Agile methodologies" width="800"/>
 
-So far we have only discussed Scrum and Kanban, since they are the most popular agile methodologies.
+So far we have only discussed Scrum and Kanban, since they are the most popular Agile methodologies.
 
 Nevertheless, there are many other methodologies that go beyond the scope of this course but are worth exploring, to name a few:
 * Extreme Programming (see [extremeprogramming.org](http://www.extremeprogramming.org/))
