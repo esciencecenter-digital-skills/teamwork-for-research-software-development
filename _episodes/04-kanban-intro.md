@@ -176,4 +176,13 @@ planning) from Scrum and a continuous workflow with WIP limits from Kanban.
 > {: .solution}
 {: .challenge}
 
+> ## Discussion
+>
+> Think about following the Kanban methodology when working on your projects in a team.
+>
+> - What questions do you still have?
+> - Are there any incremental improvements that can benefit your team?
+> - What did you learn in the online course that you think is too much for your team?
+{: .discussion}
+
 {% include links.md %}
