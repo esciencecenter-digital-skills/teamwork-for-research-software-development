@@ -183,4 +183,6 @@ lesson](./05-comparing-agile-methodologies.md).
 > - What did you learn in the online course that you think is too much for your team?
 {: .discussion}
 
+Challenges specific to research projects will be discussed later, in [episode 6](06-agile-in-research.md).
+
 {% include links.md %}
