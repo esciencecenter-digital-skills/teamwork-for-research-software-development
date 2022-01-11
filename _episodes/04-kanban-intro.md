@@ -146,19 +146,6 @@ the delivery point as fast as possible.
 >
 {: .discussion}
 
-## Combining Scrum and Kanban (Scrumban)
-
-Kanban is great for processes focused on continuous delivery with changing
-priorities. On the other hand, Scrum divides work into a series of time-boxed
-iterations called sprints (see [episode 3](./03-scrum-into.md)).
-
-But maybe a combination of Scrum and Kanban (known as "Scrumban") is what
-your team would benefit the most from.
-
-Scrumban manifests itself in different ways depending on your team
-characteristics. The team may use team meetings (like retrospective and
-planning) from Scrum and a continuous workflow with WIP limits from Kanban.
-
 > ## Exercise
 >
 > Imagine that you are working with a Kanban board. One of the work items in “In
@@ -175,6 +162,13 @@ planning) from Scrum and a continuous workflow with WIP limits from Kanban.
 > have it under control.
 > {: .solution}
 {: .challenge}
+
+## Summary
+
+Kanban is great for processes focused on continuous delivery with changing
+priorities. On the other hand, Scrum divides work into a series of time-boxed
+iterations called sprints (see [episode 3](./03-scrum-into.md)). But maybe a combination of Scrum and Kanban (known as "ScrumBan") is what your
+team would benefit the most from. We will learn about it in the [next lesson](./05-comparing-agile-methodologies.md).
 
 > ## Discussion
 >
