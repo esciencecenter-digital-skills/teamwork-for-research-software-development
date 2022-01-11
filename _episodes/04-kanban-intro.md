@@ -160,6 +160,8 @@ the delivery point as fast as possible.
 > this item is blocked, for how long, and who will unblock it. This visualizes
 > the situation. So, the team can immediately see that the item is blocked and
 > have it under control.
+> Now, the blocked item does not count as a WIP item and 
+> the team could potentially add an extra work-item to 'In Progress'.
 > {: .solution}
 {: .challenge}
 
