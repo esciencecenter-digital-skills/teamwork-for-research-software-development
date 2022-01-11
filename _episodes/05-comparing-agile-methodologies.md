@@ -62,7 +62,7 @@ They both provide a set of practical tools that allow you to work according to t
 > Choose from the following items:
 > - Lead time, cycle time, WIP
 > - Product owner, scrum master, development team
-> - Continous delivery
+> - Continuous delivery
 > - Teams should not make changes during the sprint
 > - No required roles
 > - At the end of each sprint
