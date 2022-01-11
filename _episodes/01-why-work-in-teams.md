@@ -25,7 +25,7 @@ group of people:
 - Working group: a group with at least some common goals.
 - Team: a group of people who act together to achieve common goals. Often,
   a group of individuals first form a working group. Then, they become a team.
-  Read more about differences between working groups and teams
+  As opposed to working groups, teams have collective responsibility, leadership, and achievements. Read more about differences between working groups and teams
   [here](https://ec.europa.eu/eusa/ebooks/wit-en/book.html#chapter02).
 
 ![team continuum](../fig/team_continuum.png)
