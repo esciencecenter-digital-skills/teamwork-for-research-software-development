@@ -159,10 +159,21 @@ Scrumban manifests itself in different ways depending on your team
 characteristics. The team may use team meetings (like retrospective and
 planning) from Scrum and a continuous workflow with WIP limits from Kanban.
 
-> ## Discussion
+> ## Exercise
 >
-> Imagine that you are working with a Kanban board. One of the work-items in “In
-> Progress” got blocked. How do you deal with it in the Kanban workflow?
-{: .discussion}
+> Imagine that you are working with a Kanban board. One of the work items in “In
+> Progress” got blocked. The _blocked_ item means that the team is not able to
+> continue working on it because it is waiting for something from outside the
+> team. How do you deal with the blocked item in the Kanban workflow?
+>
+> > ## Solution
+> >
+> > The simplest but effective approach is to put a "red dot" on the item. In an
+> online board, it is possible to add a tag/label and more information like why
+> this item is blocked, for how long, and who will unblock it. This visualizes
+> the situation. So, the team can immediately see that the item is blocked and
+> have it under control.
+> {: .solution}
+{: .challenge}
 
 {% include links.md %}
