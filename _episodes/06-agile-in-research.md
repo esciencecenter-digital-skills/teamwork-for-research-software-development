@@ -3,7 +3,7 @@ title: "Challenges for Agile way of working in research"
 teaching: 15
 exercises: 20
 questions:
-- "What are challenges for an agile way of working in research and how do I solve them?"
+- "What are challenges for an Agile way of working in research and how do I solve them?"
 objectives:
 - "Know how to do waterfall projects in an Agile way"
 - "Know how to deal with different expertise in a team"
@@ -14,12 +14,12 @@ keypoints:
 ---
 
 In this episode we will discuss and learn about challenges that arise when applying
-agile principles to research projects. While some of the agile [values](https://agilemanifesto.org/) and [principles](https://agilemanifesto.org/principles.html) go hand in hand with the traditional way of doing academic research, others will require an investment of the team to change their way of working.
+Agile principles to research projects. While some of the Agile [values](https://agilemanifesto.org/) and [principles](https://agilemanifesto.org/principles.html) go hand in hand with the traditional way of doing academic research, others will require an investment of the team to change their way of working.
 
 --------------------------------------------------------
 # Challenges
 > ## Discussion
-> What are the challenges for an agile way of working that are specific to research?
+> What are the challenges for an Agile way of working that are specific to research?
 > These might be challenges that are more generic to doing teamwork in research,
 > instead of just the Agile way of working.
 {: .discussion}
@@ -77,7 +77,7 @@ exploratory work doesn't need to meet the same strict criteria as regular tasks.
 #### Solutions:
 - **Implement flexibly**: You should fit the methodology to the way of working.
 'Process-rigidity is the antithesis of agility.'
-- **Emphasize the "why"**: Focus on the "why" for the change to agile instead of
+- **Emphasize the "why"**: Focus on the "why" for the change to Agile instead of
 "what" to do to make the change.
 
 ----------------------------------------------------
