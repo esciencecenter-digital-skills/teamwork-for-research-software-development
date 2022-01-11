@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Kanban"
-teaching: 5
-exercises: 60
+teaching: 15
+exercises: 30
 questions:
 - "What is Kanban?"
 - "What is a Kanban board?"
