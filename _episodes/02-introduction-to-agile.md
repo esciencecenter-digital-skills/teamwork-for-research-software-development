@@ -1,16 +1,16 @@
 ---
-title: "Introduction to agile"
+title: "Introduction to Agile"
 teaching: 10
 exercises: 20
 questions:
-- "What is 'agile'?"
-- "Why should I work in an agile way?"
+- "What is 'Agile'?"
+- "Why should I work in an Agile way?"
 objectives:
 - "List drawbacks of Waterfall model"
 - "Describe Agile Manifesto"
 - "List benefits of following Agile manifesto"
 keypoints:
-- "The agile manifesto provides good pointers for successfully working on software projects as a team"
+- "The Agile manifesto provides good pointers for successfully working on software projects as a team"
 ---
 # Waterfall model
 Typically, many real-world (software development) projects
@@ -40,10 +40,10 @@ Learn more about the waterfall model [here](https://www.tutorialspoint.com/sdlc/
 
 # Agile manifesto
 The Agile way of working contrasts the Waterfall model and mitigates most of its drawbacks.
-Watch [this video introducing the agile manifesto](http://growingagile.thinkific.com/courses/take/scrumbasics/lessons/967803-agile-manifesto-lesson).
+Watch [this video introducing the Agile manifesto](http://growingagile.thinkific.com/courses/take/scrumbasics/lessons/967803-agile-manifesto-lesson).
 
 > ## Exercise
-> These are the [12 principles behind the agile manifesto](http://agilemanifesto.org/principles.html). Which of these
+> These are the [12 principles behind the Agile manifesto](http://agilemanifesto.org/principles.html). Which of these
 > resonates the most for you?
 > 1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
 > 2. Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.
@@ -60,7 +60,7 @@ Watch [this video introducing the agile manifesto](http://growingagile.thinkific
 {: .challenge}
 
 > ## Discussion
-> Think about following the agile manifesto when working on your projects in a team.
+> Think about following the Agile manifesto when working on your projects in a team.
 > - What are benefits?
 > - What are downsides?
 >
@@ -84,7 +84,7 @@ Watch [this video introducing the agile manifesto](http://growingagile.thinkific
 
 
 > ## Disclaimer to comparison with waterfall model
-> It is good to note that the comparison of the agile movement with the waterfall model
+> It is good to note that the comparison of the Agile movement with the waterfall model
 > is a bit artificial. Agile methodologies are often framed as **the** way of solving waterfall model pitfalls,
 > but there have been modifications of the 'pure' waterfall model that accommodate
 > these pitfalls too. In fact they are not mutually exclusive, and you could apply
