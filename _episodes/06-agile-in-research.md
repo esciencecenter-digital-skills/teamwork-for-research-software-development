@@ -52,6 +52,10 @@ and it makes more sense to assign particular tasks to members with a relevant ex
 The goal of the Agile way of working is to maximize value for the customer,
 but what is "value" in research? And who is the customer?
 It is often hard/awkward to define scientific outcomes as products with a certain functionality.
+### Open Source software development challenge
+The nature of open source projects is that they draw (and benefit from) collaborators outside of your team, workplace and even country.
+Starting and contributing to open source software projects therefore leads to many dependencies on collaborators outside of the team.
+Not completely "owning" your product is problematic in many Agile methodologies. Approaches like Scrum may not work well or at all in such a situation.
 
 -----------------------------------------------
 # Solutions
