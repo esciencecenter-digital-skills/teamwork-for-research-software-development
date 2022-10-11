@@ -115,7 +115,12 @@ the different projects in your team. You can start with a Kanban board and backl
 - Each project has its own 'project owner' (usually a team member) that takes
 the role of product owner for that project.
 
-------------------------------------------------
+----------------------------------------------------
+### Open Source software development challenge
+#### Solutions:
+- You need to identify what parts of the project you have "ownership" of, and which parts you do not, and then plan development to mitigate issues. You should adapt the chosen Agile methodology to fit the project, and not the other way around. If the software development will be (mostly) carried out by a core team of developers who work intensively on that project, with only occasional contributions from others, then Scrum can be an option. For projects that differ substantially from this, a "looser" approach may work, such as Kanban.
+
+----------------------------------------------------
 ### Specific expertise challenge
 #### Solutions:
 - Not everyone has to be involved in everything!
