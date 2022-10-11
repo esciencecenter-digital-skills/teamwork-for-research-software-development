@@ -46,6 +46,10 @@ Agile is often explained in the context of a team fully dedicated to a single pr
 In academia, team members may often be involved in numerous projects in and outside of the team.
 ### Product Owner challenge
 For a team running multiple research projects, who acts as product owner when applying the scrum framework?
+### Open Source software development challenge
+The nature of open source projects is that they draw (and benefit from) collaborators outside of your team, workplace and even country.
+Starting and contributing to open source software projects therefore leads to many dependencies on collaborators outside of the team.
+Not completely "owning" your product is problematic in many Agile methodologies. Approaches like Scrum may not work well or at all in such a situation.
 ### Specific expertise challenge
 For many scientific problems a very specific expertise is needed.
 This expertise is often even specific for a single project.
@@ -111,7 +115,12 @@ the different projects in your team. You can start with a Kanban board and backl
 - Each project has its own 'project owner' (usually a team member) that takes
 the role of product owner for that project.
 
-------------------------------------------------
+----------------------------------------------------
+### Open Source software development challenge
+#### Solutions:
+- You need to identify what parts of the project you have "ownership" of, and which parts you do not, and then plan development to mitigate issues. You should adapt the chosen Agile methodology to fit the project, and not the other way around. If the software development will be (mostly) carried out by a core team of developers who work intensively on that project, with only occasional contributions from others, then Scrum can be an option. For projects that differ substantially from this, a "looser" approach may work, such as Kanban.
+
+----------------------------------------------------
 ### Specific expertise challenge
 #### Solutions:
 - Not everyone has to be involved in everything!
