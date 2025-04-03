@@ -101,4 +101,18 @@ In short: following the Agile principles helps teams to make the benefits of wor
 > these pitfalls too. In fact, they are not mutually exclusive and you could apply
 > principle 12 by picking aspects from the Waterfall model to continuously improve your teams process.
 {: .callout}
+
+> ## Further reading
+> Agile methodology is not specifically developed for research software, and research software often differ from other software projects. In this sense, some adjustments may need to be made to Agile methodology for it to work on your project. Here are a few links to discussions on applying Agile to Research Software:
+> - [Collegeville 2021 workshop](https://collegeville.github.io/CW21/Background.html)
+> - [RSECon24: On the Tension between Agile Methodologies and Research Software](https://zenodo.org/records/14290335)
+> - [Agile Methods for RSEs: A formula for scrum-driven software development in research?](https://zenodo.org/records/14290441)
+> - [Code for Thought: To Agile or Not to Agile](https://codeforthought.buzzsprout.com/1326658/episodes/10085061-to-agile-or-not-to-agile)
+> - [Code for Thought: Project Management with GitHub](https://codeforthought.buzzsprout.com/1326658/episodes/16273876-en-bytesized-rse-project-management-with-github)
+> - [35th HiRSE-Seminar: "Agile Methods for RSEs" by Ann Gledson](https://www.youtube.com/watch?v=MYa7i3tTWUA)
+> - [RSE society: Agile Methods for RSEs](https://www.youtube.com/watch?v=qKNhwTsozT4)
+> - [Structured and Unstructured Teams for Research Software Development at The Netherlands eScience Center](https://ieeexplore.ieee.org/document/9757933)
+{: .challenge}
+
+
 {% include links.md %}
